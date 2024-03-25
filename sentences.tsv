@@ -1,0 +1,614 @@
+id	unit	characters	pinyin	meaning	subunit	course
+1	1	我 是 你 的 朋友	wǒ shì nǐ de péngyǒu	I am your friend.	2	hsk
+2	1	你 是 我 的 朋友	nǐ shì wǒ de péngyǒu	You are my friend.	2	hsk
+3	89	千年雪莲	qiānnián xuělián	thousand year snow lotus	1	wuxia
+4	1	我 不 是 他 的 朋友	wǒ bù shì tā de péngyǒu	I am not his friend.	2	hsk
+5	1	他 不 是 我 的 朋友	tā bùshì wǒ de péngyǒu	He is not my friend.	2	hsk
+7	1	你   不   是   他   的   朋友	nǐ bù shì tā de péngyǒu	You are not his friend.	2	hsk
+10	1	你 叫 什么 名	nǐ jiào shénme míngzì	what is your name	3	hsk
+11	1	他 不 叫 李伟	Tā bù jiào lǐ wěi	his name is not Li Wei	3	hsk
+12	1	你 是 谁	Nǐ shì shéi	who are you	3	hsk
+13	1	她 叫 什么 名字	tā jiào shénme míngzì	what's her name	3	hsk
+14	2	我 吃 苹果	wǒ chī píng guǒ 	I eat apples	1	hsk
+17	1	你好	nǐhǎo	hello	1	hsk
+18	1	你好 ， 我 是 李伟	nǐhǎo, wǒ shì lǐwěi 	hello, I am Li wei	1	hsk
+19	1	李伟 再见	Lǐwěi zàijiàn	goodbye Li Wei	1	hsk
+20	1	他 叫 李伟 吗	tā jiào lǐwěi ma	is his name Li Wei	3	hsk
+21	15	我 在 学校 考试 没 准备 好	wǒ zài xuéxiào kǎoshì méi zhǔnbèi hǎo	I did not prepare well for the exam at school	4	hsk
+22	9	这个 房间 里 有 一 张 桌子 ， 一 张 椅子 ， 一 台 电脑 ， 一 台 电视 和 一些 杯子	zhège fángjiān lǐ yǒu yī zhāng zhuōzi, yī zhāng yǐzi, yī tái diànnǎo, yī tái diànshì hé yīxiē bēizi	There is a table, a chair, a computer, a TV, and some cups in this room	3	hsk
+24	19	我 生病 了 ， 得 去 看 医生	Wǒ shēngbìng le, děi qù kàn yīshēng	I'm sick, I have to go see a doctor	1	hsk
+25	18	他 穿着 一 件 红色 的 衣服	tā chuānzhe yī jiàn hóngsè de yīfu	he is wearing a red shirt	1	hsk
+26	21	我 还有 五 分钟 就要 去 上班 了	wǒ hái yǒu wǔ fēnzhōng jiù yào qù shàngbān le	I still have five minutes before I have to go to work	1	hsk
+27	12	我 会 坐 飞机 去 北京	wǒ huì zuò fēijī qù běijīng	I will take a plane to Beijing.	3	hsk
+28	5	我去 商店 找 便宜 的 东西 买	wǒ qù shāngdiàn zhǎo piányí de dōngxī mǎi	I go to the store to look for cheap things to buy	3	hsk
+29	9	这个 电影 真的 很 好看	zhège diànyǐng zhēn de hěn hǎokàn	This movie is really good to watch.	4	hsk
+30	13	我们 都 喜欢 吃 鸡蛋 和 牛奶	wǒmen dōu xǐhuān chī jīdàn hé niúnǎi	We all like to eat eggs and milk	2	hsk
+31	13	这个 饭馆 的 菜 比 那个 饭馆 的 菜 贵	zhège fànguǎn de cài bǐ nàge fànguǎn de cài guì	The dishes in this restaurant are more expensive than the dishes in that restaurant	1	hsk
+33	13	这个 饭馆 的 菜 最 好吃	zhège fànguǎn de cài zuì hào chī	the dishes in this restaurant are the most delicious	1	hsk
+36	18	我 在 商店 买 了 件 新 衣服	wǒ zài shāngdiàn mǎile jiàn xīn yīfú	I bought a new piece of clothing at the store	2	hsk
+37	5	你 想 买 哪个 水果	nǐ xiǎng mǎi nǎge shuǐguǒ	which fruit do you want to buy	1	hsk
+38	3	我 的 弟弟 想 长 高	wǒ de dìdì xiǎng zhǎng gāo	my younger brother wants to grow taller	4	hsk
+39	36	他 表示 会 来 参加 我 的 生日	tā biǎoshì huì lái cānjiā wǒ de shēngrì	he said he would come to my birthday	2	hsk
+40	37	我 不知 道 怎么 解决 这个 问题 ， 你 有 什么 好 的 办法 吗	wǒ bù zhīdào zěnme jiějué zhège wèntí, nǐ yǒu shénme hǎo de bànfǎ ma	I don't know how to solve this problem, do you have any good ideas	3	hsk
+41	33	他 的 考试 成绩 是 班 里 最好 的	tā de kǎoshì chéngjī shì bān lǐ zuì hǎo de.	his test scores are the best in the class.	1	hsk
+42	37	你 能 帮忙 我 拿 这个 包 吗	nǐ néng bāngmáng wǒ ná zhège bāo ma	Can you help me take this bag	1	hsk
+43	28	我 经过 那个 公园 去 上班	wǒ jīngguò nàge gōngyuán qù shàngbān	I pass by that park on my way to work	2	hsk
+44	39	每年 春天 和 秋天 ， 天气 会 有 很 大 的 变化	měi nián chūntiān hé qiūtiān, tiānqì huì yǒu hěn dà de biànhuà	every spring and autumn, there are significant changes in weather	1	hsk
+45	28	我们 的 办公室 在 二 层	wǒmen de bàngōngshì zài èr céng	our office is on the second floor	2	hsk
+46	37	请 你 帮忙 搬 这 张 桌子	qǐng nǐ bāngmáng bān zhè zhāng zhuōzi.	please help me move this table.	1	hsk
+47	28	会议 结束 的 时候 ， 大家 都 可以 回家 了	Huìyì jiéshù de shíhòu, dàjiā dōu kěyǐ huí jiāle	when the meeting is over, everyone can go home	4	hsk
+48	38	我 的 手机 坏了 , 周末 我 要 去 商店 换 一 个 。	wǒ de shǒujī huài le, zhōumò wǒ yào qù shāngdiàn huàn yí ge	my phone broke, on the weekend I need to go to the store to replace it	4	hsk
+51	40	我 喜欢 看 爱情 电影	wǒ xǐhuān kàn àiqíng diànyǐng	I like to watch romance movies	2	hsk
+52	40	了解 一个人 的 爱好 可以 帮助 你 更 好 地 了解 这个 人	liǎojiě yí ge rén de àihào kěyǐ bāngzhù nǐ gèng hǎode liǎojiě zhège rén	knowing someone's hobbies can help you understand that person better	1	hsk
+53	35	公园 里 非常 安静 ， 只有 鸟儿 的 声音	gōng yuán lǐ fēi cháng ān jìng, zhǐ yǒu niǎo ér de shēng yīn	The park is very quiet, with only the voice of birds	3	hsk
+55	34	除了 周末 我 都 很 忙 ， 没有 时间 去 运动	chúle zhōumò wǒ dōu hěn máng, méiyǒu shíjiān qù yùndòng	except for the weekends, I am very busy and have no time to exercise	1	hsk
+56	27	今天 的 天气 多么 好 啊	jīntiān de tiānqì duōme hǎo a	how nice the weather is today	1	hsk
+57	37	我 带 了 一些 水果 去 旅行	wǒ dài le yīxiē shuǐguǒ qù lǚxíng	I brought some fruits for the trip	1	hsk
+58	40	我 当然 想 去 看 电影	wǒ dāngrán xiǎng qù kàn diànyǐng	of course I want to go see a movie	4	hsk
+60	26	牛奶 被 我 放进 了 冰箱	niúnǎi bèi wǒ fàng jìn le bīngxiāng	the milk was put into the fridge by me	1	hsk
+62	27	我 爱 我 的 国家 ， 它 有 很 多 的 河 和 公园	wǒ ài wǒ de guójiā, tā yǒu hěnduō de hé hé gōngyuán	I love my country, it has many rivers and parks	1	hsk
+63	30	我 关心 你 的 健康 ， 所以 我 希望 你 每天 都 能 锻炼 身体	wǒ guānxīn nǐ de jiànkāng, suǒyǐ wǒ xīwàng nǐ měitiān dōu néng duànliàn shēntǐ	 I care about your health, so I hope you can exercise every day	3	hsk
+64	24	我 跟 我 的 爷爷 和 奶奶 住 在一起	wǒ gēn wǒ de yéyé hé nǎinai zhù zài yīqǐ	I live together with my grandfather and grandmother	1	hsk
+65	43	我 敢 说 我 喜欢 你	wǒ gǎn shuō wǒ xǐhuān nǐ	I dare to say that I like you	3	hsk
+66	33	老师 讲 ， 而且 学生 们 都 认真 听 着	lǎoshī jiǎng, érqiě xuéshēngmen dōu rènzhēn tīngzhe	the teacher talks, and the students listen carefully	3	hsk
+67	38	你 记得 带 护照 了 吗	nǐ jìdé dài hùzhào le ma	did you remember to bring your passport	1	hsk
+68	41	我 马上 要 去 银行	wǒ mǎshàng yào qù yínháng	I must go to the bank at once	1	hsk
+69	28	我们 已经 完成 了 这个 工作 ， 现在 我们 可以 开始 做 其他 工作 了	wǒmen yǐjīng wánchéngle zhège gōngzuò, xiànzài wǒmen kěyǐ kāishǐ zuò qítā gōngzuòle	we have already finished this work, now we can start doing other work	4	hsk
+70	29	我 不 太 清楚 怎么 走 ， 你 能 给 我 一 个 清楚 的 路 吗	wǒ bù tài qīngchǔ zěnme zǒu, nǐ néng gěi wǒ yīgè qīngchǔ de lù ma	I am not sure how to go, can you give me a clear route	2	hsk
+72	34	为了 提高 我 的 体育 水平 ， 我 每天 都 努力 练习	wèile tígāo wǒ de tǐyù shuǐpíng, wǒ měitiān dū nǔlì liànxí	In order to improve my fitness level, I practice hard every day	2	hsk
+73	25	我 在 饭馆 的 菜单 上 选择 了 一 个 菜	wǒ zài fànguǎn de càidān shàng xuǎnzéle yī gè cài	I chose a dish from the restaurant’s menu	3	hsk
+75	35	照顾 熊猫 是 很 难 的	zhàogù xióngmāo shì hěn nán de	it is difficult to take care of pandas	2	hsk
+76	26	请 离开 厨房 时 关 灯	qǐng líkāi chúfáng shí guān dēng	please turn off the light when you leave the kitchen	2	hsk
+77	41	根据 经理 ， 银行 明天 一定 会 开	gēnjù jīnglǐ, yínháng míngtiān yídìng huì kāi	according to the manager, the bank will surely be open tomorrow	3	hsk
+80	42	  他 一般 对 别人 都 很 热情	tā yībān duì biérén dōu hěn rèqíng	 he is generally polite to others	1	hsk
+81	41	我 从 银行 拿出 一共 两 万 零 三 百 元 八角	wǒ cóng yínháng náchū yīgòng liǎng wàn líng sānbǎi yuán bā jiǎo	I took out 20,300.8 yuan altogether from the bank.	2	hsk
+82	40	你 晚上 走路 的 时候 应该 小心	nǐ wǎnshàng zǒulù de shíhòu yīnggāi xiǎoxīn	you should be careful when walking late at night	3	hsk
+83	43	考试 后 ， 我 一边 放心 ， 一边 担心	Kǎoshì hòu, wǒ yībiān fàngxīn, yībiān dānxīn	after the test, I feel relieved while also worried	1	hsk
+84	28	你 为什么 又 不 去 上班 了	nǐ wèi shén me yòu bù qù shàng bān le	why are you not going to work again	3	hsk
+85	37	你 愿意 借 我 这 本 书 吗	nǐ yuànyì jiè wǒ zhè běn shū ma	are you willing to lend me this book	3	hsk
+86	31	老师 要求 作业 必须 有 五 段 ， 或者 五 百 个 词语	lǎoshī yāoqiú zuòyè bìxū yǒu wǔ duàn, huòzhě wǔbǎi gè cíyǔ	the teacher requires that the homework must have five paragraphs or five hundred words	3	hsk
+87	44	其实 我 不 喜欢 吃 甜 的	qíshí wǒ bù xǐhuān chī tián de	actually, I don’t like to eat sweet things	1	hsk
+88	39	我 需要 开 空调	wǒ xūyào kāi kōngtiáo	 I need to turn on the air conditioning	2	hsk
+89	39	虽然 现在 是 冬天 ， 但是 今天 很 热	suīrán xiànzài shì dōngtiān, dànshì jīntiān hěn rè	although it is winter now, it is hot today	1	hsk
+90	39	如果 你 觉得 冷 ， 就 关 空调	rúguǒ nǐ juédé lěng, jiù guān kōngtiáo	if you feel cold, then turn off the air conditioning	2	hsk
+91	28	她 不 习惯 新 的 工作 环境	tā bù xíguàn xīn de gōngzuò huánjìng	she is not used to the new work environment	2	hsk
+92	44	糖 放 得 越 多 ， 蛋糕 就 越 甜	táng fàng de yuè duō, dàngāo jiù yuè tián	the more sugar added, the sweeter the cake	4	hsk
+93	26	每天 刷牙 很 重要	měitiān shuāyá hěn zhòngyào	It's important to brush teeth every day.	4	hsk
+94	44	我们 以为 这 道 菜 很 甜 ， 但 其实 不 甜	wǒmen yǐwéi zhè dào cài hěn tián, dàn qíshí bù tián	we thought this dish was sweet, but actually it’s not	4	hsk
+99	61	如果 你 打算 参加 聚会 ， 请 报名	rúguǒ nǐ dǎsuàn cānjiā jùhuì, qǐng bàomíng	if you plan to attend the party, please register	2	hsk
+100	60	我 保证 我 会 按时 完成 工作	wǒ bǎozhèng wǒ huì ànshí wánchéng gōngzuò	I guarantee that I will finish the work on time	2	hsk
+101	66	我 已经 看 了 这个 电影 三 遍 ， 我 不想 重新 看	wo yǐjīng kànle zhège diànyǐng sān biàn, wǒ bùxiǎng chóngxīn kàn	I’ve already seen this movie three times, I don’t want to watch it again	2	hsk
+103	55	他 一直 坚持 节约 钱 ， 终于 积累 了 够 的 钱 买 新手 机	tā yīzhí jiānchí jiéyuē qián, zhōngyú jīlěile gòu de qián mǎi xīn shǒujī	he has always insisted on saving money and finally accumulated enough to buy a new smartphone.	4	hsk
+104	63	由于 一次 吵 ， 他们 的 友谊 断 了	yóuyú yīcì chǎo, tāmen de yǒuyì duànle	due to a quarrel, their friendship ended.	4	hsk
+105	93	不管 天气 好坏 ， 即使 下雨 ， 他 每天 都 去 跑步 。	Bùguǎn tiānqì hǎo huài, jíshǐ xià yǔ, tā měitiān dōu qù pǎobù	Regardless of good or bad weather, even if it’s raining, he goes running every day	2	hsk
+106	70	请 你 详细 地 说明 这个 问题	qǐng nǐ xiángxì de shuōmíng zhège wèntí	please explain this issue in detail	3	hsk
+107	51	公司 决定 减少 售货员 的 工作时间 。	gōngsī juédìng jiǎnshǎo shòuhuòyuán de gōngzuò shíjiān	The company decided to reduce the working hours of salespeople	2	hsk
+108	63	我们 有 许多 共同 的 兴趣 。	wǒmen yǒu xǔduō gòngtóng de xìngqù	we have many common interests	4	hsk
+109	79	喝 完 后 ， 请 把 瓶子 扔 进 垃圾桶 。	hē wán hòu, qǐng bǎ píngzi rēng jìn lājī tǒng	please throw the bottle into the trash can after you finish drinking it	2	hsk
+110	49	我 计划   参观 我 想 留学 的 学校	wǒ jìhuà cānguān wǒ xiǎng liúxué de xuéxiào	I plan to visit the school where I want to study abroad	1	hsk
+111	63	我 不 小心 把 你 的 电话 号码 弄丢 了 ， 你 能 再 给 我 一次 吗 ？	wǒ bù xiǎoxīn bǎ nǐ de diànhuà hàomǎ nòng diū le, nǐ néng zài gěi wǒ yīcì ma	I accidentally lost your phone number, could you give it to me again	3	hsk
+112	49	当 我 看到 考试 成绩 时 ， 我 非常 吃惊 ， 因为 我 没有 想到 会 得到 这么 高 的 成绩 。	dāng wǒ kàn dào kǎoshì chéngjī shí, wǒ fēicháng chījīng, yīn wèi wǒ méiyǒu xiǎng dào huì dédào zhème gāo de chéngjī	when I saw the exam results, I was very surprised because I didn’t expect to get such a high score	2	hsk
+113	83	我 怀疑 这个 材料 是 假的 。	wǒ huáiyí zhège cáiliào shì jiǎ de	 I suspect this material is fake	3	hsk
+114	70	你 对 这个 问题 有 什么 看法	nǐ duì zhège wèntí yǒu shéme kàn fǎ	what is your view on this issue	2	hsk
+115	79	首先 ， 你 应该 脱掉 你 的 鞋子 ， 然后 进入 房间 。	shǒuxiān, nǐ yīnggāi tuō diào nǐ de xiézi, ránhòu jìnrù fángjiān	first of all, you should take off your shoes, then enter the room	2	hsk
+116	57	  这 篇 文章 的 这 部分 真的 很 有趣	zhè piān wénzhāng de zhè bùfen zhēn de hěn yǒuqù	this part of the article is really interesting	2	hsk
+118	79	尽管 很 困 ， 他 还是 主动 在 公交车 上 让 出 了 座位 给 一 个 老人 。	jǐnguǎn hěn kùn, tā háishì zhǔdòng zài gōngjiāo chē shàng ràng chūle zuòwèi gěi yīgè lǎorén	despite being tired, he actively gave up his seat on the bus for an elderly person	3	hsk
+119	49	他 后悔 没有 在 不得不 猜 答案 的 时候 学习	tā hòuhuǐ méiyǒu zài bùdébù cāi dá’àn de shíhòu xuéxí	he regretted not studying when he was forced to guess the answers	3	hsk
+120	80	既然 雨 停止 了 ， 我们 可以 继续 我们 的 网球 比赛 。	jìrán yǔ tíngzhǐ le, wǒmen kěyǐ jìxù wǒmen de wǎngqiú bǐsài	now that the rain has stopped, we can continue our tennis game	3	hsk
+121	63	请 告诉 我 你 的 电话 号码 的 最后 四 个 数字 。	qǐng gàosù wǒ nǐ de diànhuà hàomǎ de zuìhòu sì gè shùzì	please tell me the last four digits of your phone number	3	hsk
+122	62	他 不但 高 ， 而且 帅 。	tā bùdàn gāo, érqiě shuài	he is not only tall but also handsome	1	hsk
+123	51	去年 ， 高级 管理 发生 了 改变	qùnián, gāojí guǎnlǐ fǎ shēng le gǎibiàn	last year, the high level managment changed	3	hsk
+125	82	她 在 新城 市里 感到 非常 孤单 ， 没有 朋友 和 亲人 。	tā zài xīn chéngshì lǐ gǎndào fēicháng gūdān, méiyǒu péngyǒu hé qīnrén	she feels very lonely in the new city without friends or family	3	hsk
+126	52	火车站 暂时 关 了 。	huǒchē zhàn zhànshí guān le	the train station is temporarily closed	2	hsk
+128	62	他 笑 起来 真 好看 。	tā xiào qǐlái zhēn hǎokàn	he looks really good when he smiles	2	hsk
+129	58	你 来 这里 的 目的 是 什么 ？	nǐ lái zhèlǐ de mùdì shì shénme	what is your purpose in coming here	1	hsk
+130	55	商店 入口 在 有 打折 的 东西	shāngdiàn rùkǒu zài yǒu dǎzhé de dōngxī	there are discounted things at the entrance of the store	1	hsk
+132	52	难道 公交车 又 要 迟到 了 吗	Nándào gōngjiāo chē yòu yào chídàole ma	don’t tell me the bus will be late again!	2	hsk
+133	53	他 拉开 门 走 了 进去 。	tā lā kāi mén zǒule jìnqù	he pulled the door open and went in	2	hsk
+134	71	他 是 一 个 优秀 的 学生 ， 并且 他 运动 很 好 。	tā shì yīgè yōuxiù de xuéshēng, bìngqiě tā yùndòng hěn hǎo	he is an excellent student and he is good at sports	2	hsk
+135	2	她 吃 水果	tā chī shuǐguǒ	she eats fruit	1	hsk
+136	2	我 吃 水果 和 米饭	wǒ chī shuǐguǒ hé mǐfàn	I eat apples and rice	1	hsk
+137	2	我 喝茶	wǒ hē chá	I drink tea	2	hsk
+138	2	他 喜欢 喝 水	tā xǐhuān hē shuǐ	he likes to drink water	2	hsk
+139	2	我 要 吃 水果	wǒ yào chī shuǐguǒ	I want to eat fruit	2	hsk
+140	2	我 有 一 杯 水	wǒ yǒu yībēi shuǐ	I have one bottle of water	3	hsk
+141	2	他 有 一些 苹果	tā yǒu yīxiē píngguǒ	he has some apples	3	hsk
+142	2	她 有 两 杯 茶	tā yǒu liǎng bēi chá	she has two bottles of tea	3	hsk
+143	3	你 的 家 有 几个 人	nǐ de jiā yǒu jǐ gèrén	how many people do you have in your house	2	hsk
+144	3	我 有 一 个 姐姐	wǒ yǒu yīgè jiějiě	I have one older sister 	1	hsk
+145	3	我 有 两 个 哥哥	wǒ yǒu liǎng gè gēgē	I have two older brothers	1	hsk
+146	3	我 爱 我 的 妈妈	wǒ ài wǒ de māmā	I love my mother	1	hsk
+147	3	你 有 孩子 吗	nǐ yǒu háizi ma	Do you have children	1	hsk
+148	3	我们 家 有 三 个人	wǒmen jiā yǒu sān gè rén	we have three people in our family	2	hsk
+149	3	我 女儿 有 两 个 孩子	wǒ nǚ'ér yǒu liǎng gè háizi	my daughter has two children	2	hsk
+150	3	我 妹妹 想 喝茶	wǒ mèimei xiǎng hē chá	my little sister wants to drink tea	4	hsk
+151	3	他 的 妻子 是 我 的 女儿	tā de qīzi shì wǒ de nǚ'ér	his wife is my daughter	3	hsk
+152	3	我 的 儿子 是 她 的 丈夫	wǒ de érzi shì tā de zhàngfū	my son is her husband	3	hsk
+153	3	我 爱 我 爸爸	wǒ ài wǒ bàba	I love my father	3	hsk
+154	4	这个 苹果 是 四 块 钱	zhège píngguǒ shì sì kuài qián	this apple is four yuan	1	hsk
+155	4	这 杯 水 是 五 块	zhè bēi shuǐ shì wǔ kuài	this bottle of water is five yuan	1	hsk
+156	4	那 杯 水 多少 钱	nà bēi shuǐ duōshǎo qián	how much money is that bottle of water	2	hsk
+157	4	那 两 杯 水 是 六 块	nà liǎng bēi shuǐ shì liù kuài	those two bottles of water are six yuan	2	hsk
+158	4	这 杯 茶 是 七 块	zhè bēi chá shì qī kuài	this bottle of tea is seven yuan	2	hsk
+159	4	这 八 个 苹果 是 二十 九 快	zhè bā gè píngguǒ shì èrshíjiǔ kuài	these eight apples are twenty nine yuan	3	hsk
+160	4	我 有 八十 三 块 钱	wǒ yǒu bāshísān kuài qián	I have eighty three yuan	3	hsk
+162	5	这个手机 五 千 一 百 零 元	zhège shǒujī wǔqiān yībǎi líng wǔ yuán	this cell phone is five thousand one hundred and five yuan	2	hsk
+163	5	这家商店卖的东西都很贵	zhè jiā shāngdiàn mài de dōngxī dū hěn guì	the things this store sells are all very expensive	3	hsk
+164	6	今天 是 星期一	jīntiān shì xīngqí yī	today is Monday	1	hsk
+165	6	昨天 是 星期三	zuótiān shì xīngqísān	yesterday was Wednesday	1	hsk
+166	6	明天 是 星期六	míngtiān shì xīngqíliù	tomorrow is Saturday 	1	hsk
+167	6	明天 是 一月 三 号	míngtiān shì yī yuè sān hào	tomorrow is january third	2	hsk
+168	6	今天 是 十二月 三十 一	jīntiān shì shí'èr yuè sānshíyī	today is december thirty first	2	hsk
+169	6	今天 是 什么 日子	jīntiān shì shénme rìzi	what day is today	2	hsk
+170	6	昨天 是 两 千 二十 三 年 五月 二十 八 号	zuótiān shì liǎng qiān èrshísān nián wǔ yuè èrshíbā hào	yesterday was may twenty eight, two thousand twenty three	2	hsk
+171	6	明天 是 我 的 生日	míngtiān shì wǒ de shēngrì	tomorrow is my birthday	3	hsk
+172	6	去年 我 二十 三 岁	qùnián wǒ èrshísān suì	last year I was twenty three years old	3	hsk
+173	6	每年 我 长 高	měi nián wǒ zhǎng gāo	every year I grow taller	3	hsk
+174	7	我 每天 早上 八 点 起床	wǒ měitiān zǎoshang bā diǎn qǐchuáng	I wake up at eight o'clock in the morning every day	1	hsk
+176	7	我 起床 后 一 小时 吃 早饭	wǒ qǐchuáng hòu yī xiǎoshí chī zǎofàn	I eat breakfast one hour after waking up	1	hsk
+177	7	我 十二 点 三十 分 吃 午饭	wǒ shí'èr diǎn sānshí fēn chī wǔfàn	I eat lunch at twelve thirty	2	hsk
+178	7	我 现在 没 时间 去 商店	wǒ xiànzài méi shíjiān qù shāngdiàn	I don't have time to go to the store now	2	hsk
+179	7	中午 我 有时 间 去 商店 买 午饭	zhōngwǔ wǒ yǒu shíjiān qù shāngdiàn mǎi wǔfàn	I will have time to go to the store at noon to buy lunch	3	hsk
+180	7	我 今天 上午 十 点 三十 分 吃 了 早饭	wǒ jīntiān shàngwǔ shí diǎn sānshí fēn chīle zǎofàn	I ate breakfast at ten thirty a.m.	2	hsk
+181	7	三十 分钟 后 我 有时 间 去 商店	sānshí fēnzhōng hòu wǒ yǒu shíjiān qù shāngdiàn	I will have time to go to the store in thirty minutes	2	hsk
+182	7	昨天 中午 没 时间 吃 午饭 所以 下午 一点 吃 了	zuótiān zhōngwǔ méi shíjiān chī wǔfàn suǒyǐ xiàwǔ yīdiǎn chīle	yesterday I didn't have time to eat lunch at noon so I ate it at one o'clock in the afternoon	3	hsk
+183	7	我 晚上 十 点 十五 分 睡觉	wǒ wǎnshàng shí diǎn shíwǔ fēn shuìjiào	I go to sleep at ten fifteen in the evening	3	hsk
+184	6	生日快乐 ！	shēngrì kuàilè	happy birthday	3	hsk
+185	7	昨天 我 很 累 所以 吃完 晚饭 就 睡觉 了	zuótiān wǒ hěn lèi suǒyǐ chī wán wǎnfàn jiù shuìjiàole	I was very tired yesterday so I went to sleep after eating dinner	3	hsk
+186	9	我 住 在 北京	wǒ zhù zài běijīng	I live in Beijing	1	hsk
+187	9	我 的 狗 很 大	wǒ de gǒu hěn dà	my dog is very big	2	hsk
+188	9	我 的 猫 很 小	wǒ de māo hěn xiǎo	my cat is very small	2	hsk
+189	9	我 回家 后 喂 我 的 猫	wǒ huí jiā hòu wèi wǒ de māo	I feed my cat after I come home	2	hsk
+190	9	我 每天 下午 五 点 四十 五 分 回家	wǒ měitiān xiàwǔ wǔ diǎn sìshíwǔ fēn huí jiā	I come home at five forty five p.m every day	1	hsk
+191	12	我 从 家 坐 公共汽车 到 商店	wǒ cóng jiā zuò gōnggòng qìchē dào shāngdiàn	I take a bus from my house to the store	1	hsk
+192	12	我 坐 出租车 去 机场	wǒ zuò chūzū chē qù jīchǎng	I took a taxi to the airport	3	hsk
+193	13	服务员 ， 给 我 一 杯 咖啡	fúwùyuán, gěi wǒ yībēi kāfēi	waiter, give me one cup of coffee	2	hsk
+194	13	这 家 饭馆 有 羊肉 ， 也 有 鱼	zhè jiā fànguǎn yǒu yángròu, yěyǒu yú	this restaurant has mutton and also has fish	3	hsk
+195	13	这个 西瓜 很 大 ， 有 十八 公斤	zhège xīguā hěn dà, yǒu shíbā gōngjīn	this watermelon is very big, it is eighteen kilograms	3	hsk
+196	14	  报纸 今天 早上 六 点 三十 分送 了	bàozhǐ jīntiān zǎoshang liù diǎn sānshí fēn sòngle	the newspaper was delivered at six thirty in the moring today	4	hsk
+197	14	我 会 说 汉语	wǒ huì shuō hànyǔ	I can speak chinese	1	hsk
+198	14	我 正在 学习 汉语	wǒ zhèngzài xuéxí hànyǔ	I'm learning Chinese	1	hsk
+199	14	我 已经 读 今天 的 报纸 了	wǒ yǐjīng dú jīntiān de bàozhǐle	I already read today’s newspaper.	4	hsk
+200	14	我 会 说 ， 但是 不会 读 中文	wǒ huì shuō, dànshì bù huì dú zhōngwén	I can speak, but can’t read Chinese	2	hsk
+201	14	我 不 懂 这 本 书	wǒ bù dǒng zhè běn shū	I don't understand this book	2	hsk
+202	14	这个 字 是 什么 意思	zhège zì shì shénme yìsi	what does this character mean	3	hsk
+203	14	我 会 写 这个 角色 ， 你 呢 ?	wǒ huì xiě zhège juésè, nǐ ne?	I can write this character, what about you?	3	hsk
+204	15	他 是 一 个 好 学生	tā shì yīgè hào xuéshēng	he is a good student	3	hsk
+205	15	我 喜欢 在 学校 和 同学 们 一起 笑	wǒ xǐhuān zài xuéxiào hé tóngxuémen yīqǐ xiào	I like to laugh with my classmates at school	3	hsk
+206	15	告诉 老师 我 今天 不 来 上课	gàosù lǎoshī wǒ jīntiān bù lái shàngkè	tell the teacher I'm not coming to class today	2	hsk
+207	15	每天 九 点 开始 上课	měitiān jiǔ diǎn kāishǐ shàngkè	class begins at nine o'clock every day	1	hsk
+208	15	老师 现在 不在 教室	lǎoshī xiànzài bùzài jiàoshì	the teacher is not in the classroom right now	2	hsk
+209	15	我们 今天 有 课 吗 ?	wǒmen jīntiān yǒu kè ma	do we have class today	1	hsk
+210	16	今天 天气 很 热	jīntiān tiānqì hěn rè	the weather is very hot today	1	hsk
+211	16	今天 天气 非常 冷	jīntiān tiānqì fēicháng lěng	the waether is extreamly cold today	1	hsk
+212	16	明天 会 再 下雨	míngtiān huì zài xià yǔ	it will rain again tomorrow	2	hsk
+213	16	下雪 的 时候 我们 不 上课	Xià xuě de shíhòu wǒmen bù shàngkè	when it snows we don't have class	2	hsk
+214	16	我 希望 明天 天气 晴	wǒ xīwàng míngtiān tiānqì qíng	I hope the weather will be clear tomorrow	3	hsk
+215	16	今天 太阴 了	jīntiān tàiyīnle	it's too cloudy today	3	hsk
+216	17	我 很 高兴 认识 你	wǒ hěn gāoxìng rènshí nǐ	I'm very glad to meet you	1	hsk
+217	17	让 我 介绍 李 伟 先生	ràng wǒ jièshào lǐ wěi xiānshēng	allow me to introduce Mr. Li Wei to you	1	hsk
+218	17	欢迎 来到 我 家	huānyíng lái dào wǒ jiā	 welcome to my home	2	hsk
+219	17	谢谢 您	xièxiè nín	thank you	2	hsk
+220	17	你 姓 什么	nǐ xìng shénme	what's your last name	2	hsk
+221	17	不客气 ， 我 可以 帮助 你	bù kèqì, wǒ kěyǐ bāngzhù nǐ	you're welcome, I can help you	3	hsk
+222	17	我 有 一 个 问题	wǒ yǒu yīgè wèntí	I have a question	4	hsk
+223	16	明天 可能 会 下雨 吗	míngtiān kěnéng huì xià yǔ ma	will it possibly rain tomorrow	2	hsk
+224	18	我 觉得 这个 小姐 穿 红 衣服 很 漂亮	wǒ juédé zhège xiǎojiě chuān hóng yīfú hěn piàoliang	I think this lady looks beautiful in red dress	2	hsk
+225	18	你 觉得 这个 颜色 怎么样	nǐ juédé zhège yánsè zěnme yàng	what do you think of this color	3	hsk
+226	18	他 有 一 个 黑色 的 手表	tā yǒu yīgè hēisè de shǒubiǎo	he has a black watch	3	hsk
+227	18	我 最 喜欢 白色 的	wǒ zuì xǐhuān báisè de	I like the white one the most	1	hsk
+228	18	你 觉得 那个 女人 漂亮 吗	nǐ juédé nàgè nǚrén piàoliang ma	do you think that woman is pretty	2	hsk
+229	18	我 现在 正在 洗衣 服	wǒ xiànzài zhèngzài xǐ yīfú	I'm currently in middle of washing my clothes	3	hsk
+230	12	我 每天 五 点 开车 回家	wǒ měitiān wǔ diǎn kāichē huí jiā	I drive home at five o'clock every day	1	hsk
+231	12	你 在 火车站 买票 吗	nǐ zài huǒchē zhàn mǎi piào ma	are you buying tickets at the train station	2	hsk
+232	12	我 坐 船 去 北京	wǒ zuò chuán qù běijīng	I'm going to Beijing by boat	2	hsk
+233	12	你 有 自行车 吗	nǐ yǒu zìxíngchē ma	do you have a bicycle	2	hsk
+234	19	你 要 打电话 给 医生	nǐ yào dǎ diànhuà gěi yīshēng	you need to call a doctor	1	hsk
+235	18	她 的 眼睛 很 漂亮	tā de yǎnjīng hěn piàoliang	her eyes are very beautiful	2	hsk
+236	19	你 身体 怎么样	nǐ shēntǐ zěnme yàng	how is your health	2	hsk
+237	19	这个 月 我去 医院 两 次	zhège yuè wǒ qù yīyuàn liǎng cì	I went to the hospital twice this month	2	hsk
+238	19	医生 给 了 我 眼睛 的 药	yīshēng gěile wǒ yǎnjīng de yào	the doctor gave me eye medicine	2	hsk
+239	21	请 让 我 说话	qǐng ràng wǒ shuōhuà	please let me speak	3	hsk
+240	17	这个 问题 的 回答 我 知道	zhège wèntí de huídá wǒ zhīdào	I know the answer to this question	4	hsk
+241	14	我 读 完 这 本 书	wǒ dú wán zhè běn shū	I finished reading this book	4	hsk
+242	4	我 少 了 二十 快钱	wǒ shǎole èrshí kuài qián	I am short 20 yuan	3	hsk
+243	16	别 出去 ， 现在 下雨	bié chūqù, xiànzài xià yǔ	don't go out, it's raining now	3	hsk
+244	21	对不起 ， 我 没 去 上班 ， 因为 我 要 去 医院	duìbùqǐ, wǒ méi qù shàngbān, yīnwèi wǒ yào qù yīyuàn	sorry, I didn't go to work because I had to go to the hospital	1	hsk
+245	21	大家 都 在 吗	dàjiā dōu zài ma?	is everyone here?	2	hsk
+246	21	还有 人 没 来 ， 但是 没关系 ， 我们 可以 开始	hái yǒurén méi lái, dànshì méiguānxì, wǒmen kěyǐ kāishǐ	there are still people who haven't come, but it doesn't matter, we can start	1	hsk
+247	21	你 做 什么 工作	what's your job	nǐ zuò shénme gōngzuò	3	hsk
+248	21	我 在 中国 公司 工作	wǒ zài zhōngguó gōngsī gōngzuò	I work for chinese company	2	hsk
+249	21	我 现在 很 忙 ， 有 很多 事情 要 做	wǒ xiànzài hěn máng, yǒu hěnduō shìqíng yào zuò	I am very busy now, there are a lot of things to do	3	hsk
+250	22	前面 那个 路 很 长	qiánmiàn nà ge lù hěn zhǎng	the road ahead is very long	1	hsk
+251	22	门 在 哪里 ?   我 不知 道 怎么 进去 。	mén zài nǎlǐ? wǒ bù zhīdào zěnme jìnqù.	where is the door? I don't know how to go in.	1	hsk
+252	22	门 在 后面 左边	mén zài hòumiàn zuǒbiān	The door is on the left at the back	1	hsk
+253	9	猫 在 桌子 下	māo zài zhuōzi xià	the cat is under the table	3	hsk
+254	9	杯子 在 桌子 上	bēizi zài zhuōzi shàng	the cup is on the table	3	hsk
+255	9	我 爱 我 的 猫 ， 它 很 小	wǒ ài wǒ de māo, tā hěn xiǎo	I love my cat, it is very small	3	hsk
+256	9	椅子 在 电脑 旁边	yǐzi zài diànnǎo pángbiān	the chair is next to the computer	5	hsk
+257	22	学校 离 我 家 很 远	xuéxiào lí wǒjiā hěn yuǎn	the school is very far from my house	2	hsk
+258	22	去 学校 的 路上 ， 看见 那 家 商店 就 向 右边 走	qù xuéxiào de lùshàng, kànjiàn nà jiā shāngdiàn jiù xiàng yòubiān zǒu	On the road to school, when you see that store, turn right	3	hsk
+259	22	请问 学校 离 商店 近 吗	qǐngwèn xuéxiào lí shāngdiàn jìn ma	excuse me, is the school close to the store	3	hsk
+260	23	我 喜欢 听 他 唱歌	wǒ xǐhuān tīng tā chànggē	I like to hear him sing	3	hsk
+261	23	那个 男人 每天 都 打篮球	nàgè nánrén měitiān dū dǎ lánqiú	that man plays basketball every day	2	hsk
+262	23	我们 去 外面 打 篮球 吧 。	wǒmen qù wàimiàn dǎ lánqiú ba.	let's go outside and play basketball.	2	hsk
+263	23	你 能 跳舞 吗 ？	nǐ néng tiàowǔ ma	can you dance?	3	hsk
+264	23	我 妹妹 今年 学会 了 游泳	wǒ mèimei jīnnián xuéhuìle yóuyǒng	my little sister learned to swim this year	1	hsk
+265	23	他 踢 球 踢 得很 远	tā tī qiú tī dé hěn yuǎn	he kicks the ball very far	1	hsk
+266	23	你 想 玩 什么 ？	nǐ xiǎng wán shénme	what do you want to play	1	hsk
+267	23	他 运动 一 个 小时 后 休息 了	tā yùndòng yīgè xiǎoshí hòu xiūxíle.	he rested after exercising for an hour	4	hsk
+268	23	你 走 得 太 快 了 。   请 走 慢 一点	nǐ zǒu dé tài kuàile. qǐng zǒu màn yīdiǎn	you're going too fast. please walk a bit slower	4	hsk
+269	23	  他 每天 早上 都 去 跑步	tā měitiān zǎoshang dōu qù pǎobù	 he goes running every morning	4	hsk
+270	15	老师 给 我们 出 了 很 多 考试 题	lǎoshī gěi wǒmen chūle hěnduō kǎoshì tí	the teacher gave us a lot of test questions	5	hsk
+271	21	我 为 公司 工作 已经 十 年 了	wǒ wèi gōngsī gōngzuò yǐjīng shí niánle	I have been working for the company for ten years	3	hsk
+272	24	我 姐姐 年轻 时 很 矮	wǒ jiějiě niánqīng shí hěn ǎi	my sister was very short when she was young	2	hsk
+273	24	我 的 叔叔 和 阿姨 都 住 在 北京	wǒ de shūshu hé āyí dōu zhù zài běijīng	my uncle and aunt both live in Beijing	3	hsk
+274	24	他们 两 个 哥哥 有 相同 的 眼睛	tāmen liǎng gè gēgē yǒu xiāngtóng de yǎnjīng	the two older brothers have the same eyes	2	hsk
+275	24	我 爷爷 几乎 八十 岁 了	wǒ yéyé jīhū bāshí suìle	my grandfather is almost eighty years old	3	hsk
+276	24	我 家 有 五 口 人 ： 我 、 我 妈妈 、 我 爸爸 、 我 奶奶 和 我 爷爷	wǒjiā yǒu wǔ kǒu rén: Wǒ, wǒ māmā, wǒ bàba, wǒ nǎinai hé wǒ yéyé	there are five people in my family: me, my mom, my father, my grandmother  and my grandfather	2	hsk
+277	25	我 渴 了 ， 我 想 喝 果汁	wǒ kěle, wǒ xiǎng hē guǒzhī	I'm thirsty, I want to drink juice	2	hsk
+278	25	你 想要 一 碗 米饭 还是 面条 吗 ？	nǐ xiǎng yào yī wǎn mǐfàn háishì miàntiáo ma?	do you want a bowl of rice or noodles?	1	hsk
+279	25	吃完 一 碗 面 后 ， 我 觉得 很 饱	chī wán yī wǎn miàn hòu, wǒ juédé hěn bǎo	 I feel very full after eating a bowl of noodles	1	hsk
+280	25	我 饿 了 ， 我 就 想 吃 点 面包	wǒ èle, wǒ jiù xiǎng chī diǎn miànbāo	I'm hungry, I want to eat some bread	2	hsk
+281	25	我 会 用 筷子	wǒ huì yòng kuàizi	I can use chopsticks	3	hsk
+282	25	我 想要 一 双 筷子	wǒ xiǎng yào yīshuāng kuàizi	I would like a pair of chopsticks	3	hsk
+283	26	我 今天 要 打扫 我 的 房间	wǒ jīntiān yào dǎsǎo wǒ de fángjiān	I need to clean my room today	3	hsk
+284	28	我 的 同事 的 办公室 在 这个 大楼 的 第 六 层	wǒ de tóngshì de bàngōngshì zài zhège dàlóu de dì liù céng	my colleague's office is on the sixth floor of this building	1	hsk
+285	28	我们 的 大楼 有 电梯	wǒmen de dàlóu yǒu diàntī	our building has an elevator	1	hsk
+286	29	那个 出租车 司机 有 一 辆 好 车	nàgè chūzū chē sījī yǒuyī liàng hǎo chē	that taxi driver has a nice car	2	hsk
+287	30	他 的 脸 很 胖	tā de liǎn hěn pàng	his face is very fat	3	hsk
+288	32	他 穿 的 衬衫 和 我 穿 的 一样	tā chuān de chènshān hé wǒ chuān de yīyàng	he is wearing the same shirt as I'm wearing	1	hsk
+290	32	她 穿 那 件 裙子 很 可爱	tā chuān nà jiàn qúnzi hěn kě'ài	she is very cute in that skirt	2	hsk
+292	32	我 买 了 一 条 新 的 蓝色 裤子	wǒ mǎile yītiáo xīn de lán sè kùzi	I bought a new pair of blue pants	1	hsk
+293	32	我 喜欢 你 的 绿色 帽子	wǒ xǐhuān nǐ de lǜsè màozi	I like your green hat	2	hsk
+294	32	这 件 黄色 衬衫 很 贵	zhè jiàn huángsè chènshān hěn guì	this yellow shirt was very expensive	2	hsk
+296	33	我 要 去 图书馆 复习 历史 考试	wǒ yào qù túshū guǎn fùxí lìshǐ kǎoshì	I'm going to the library to study for a history exam	2	hsk
+297	33	你 做完 数学 作业 了 吗	nǐ zuò wán shùxué zuòyèle ma	have you finished your math homework	1	hsk
+298	33	我 儿子 现在 上 一 年级	wǒ ér zǐ xiànzài shàng yī niánjí	my son is in first grade now	1	hsk
+299	33	老师 在 黑板 上 写 了 数学 题	lǎoshī zài hēibǎn shàng xiěle shùxué tí	the teacher wrote math problems on the blackboard	4	hsk
+300	33	我 在 学校 教 普通话	wǒ zài xuéxiào jiào pǔtōnghuà	I teach Mandarin at school	4	hsk
+301	33	他 被 送 到 校长 办公室 了	tā bèi sòng dào xiàozhǎng bàngōngshìle	he was sent to the principal's office	4	hsk
+302	34	  我们 每周 都会 举行 篮球 比赛	wǒmen měi zhōu dūhuì jǔxíng lánqiú bǐsài	we have basketball games every week	1	hsk
+303	34	我们 每周 五 都会 一起 玩 篮球 游戏	wǒmen měi zhōu wǔ dūhuì yīqǐ wán lánqiú yóuxì	we play basketball games together every Friday	3	hsk
+304	35	这个 公园 里 有 很 多 动物	zhège gōngyuán li yǒu hěnduō dòngwù	there are many animals in this park	1	hsk
+305	35	他 喜欢 骑马	tā xǐhuān qímǎ	he likes to ride horses	2	hsk
+306	36	祝 你 生日快乐	zhù nǐ shēngrì kuàilè	wish you a happy birthday	2	hsk
+308	41	上网 银行 比 去 银行 方便 多 了	shàngwǎng yínháng bǐ qù yínháng fāngbiàn duōle	online banking is much more convenient than going to the bank	1	hsk
+309	44	这个 香蕉 特别 新鲜	zhège xiāngjiāo tèbié xīnxiān	this banana is especially fresh	2	hsk
+310	44	我 想要 一 杯 啤酒	wǒ xiǎng yào yībēi píjiǔ	I'd like a cup of beer	1	hsk
+311	44	我 在 超市 里 买 了 三 种 水果	wǒ zài chāoshì lǐ mǎile sān zhǒng shuǐguǒ	I bought three kinds of fruits at the supermarket	1	hsk
+312	44	我 可以 有 一 个 盘子 吗	wǒ kěyǐ yǒu yīgè pánzi ma	can I have a plate	3	hsk
+313	44	我 在 超市 买 了 葡萄	wǒ zài chāoshì mǎile pútáo	I bought grapes at the supermarket	3	hsk
+314	39	夏天 是 我 最 喜欢 的 季节	xiàtiān shì wǒ zuì xǐhuān de jìjié	summer is my favorite season	2	hsk
+315	40	我 的 主要 兴趣 是 运动	wǒ de zhǔyào xìngqù shì yùndòng	my main interest is exercising	2	hsk
+316	40	我 喜欢 听 音乐 和 看 电影	wǒ xǐhuān tīng yīnyuè hé kàn diànyǐng	I like listening to music and watching movies	2	hsk
+317	40	我 早上 看 新闻 节目	wǒ zǎoshang kàn xīnwén jiémù	I watch news programs in the morning	3	hsk
+319	26	你 的 洗手间 在 哪儿	nǐ de xǐshǒujiān zài nǎ'er	where is your bathroom	3	hsk
+320	26	我 每天 早上 和 晚上 洗澡	wǒ měitiān zǎoshang hé wǎnshàng xǐzǎo	I bathe every day in the morning and evening	4	hsk
+321	27	我们 去 爬山 吧	wǒmen qù páshān ba.	let's go hiking.	2	hsk
+322	27	这个 花园 里 有 很 多 的 花	zhège huāyuán li yǒu hěnduō de huā	there are many flowers in this garden	2	hsk
+323	27	我 花园 里 的 树 很 大	wǒ huāyuán lǐ de shù hěn dà	the tree in my garden is very big	2	hsk
+325	27	这个 花园 里 的 草 很 绿	zhège huāyuán lǐ de cǎo hěn lǜ	the grass in this garden is very green	2	hsk
+326	27	今天 非常多 云 多云 ， 我 看 不到 太阳	jīn jīntiān fēicháng duōyún duōyún, wǒ kàn bù dào tàiyáng	it's very cloudy today, I can't see the sun	3	hsk
+327	27	今天 晚上 刮风	jīntiān wǎnshàng guāfēng	it is windy this evening	3	hsk
+328	27	月亮 出来 了	yuèliàng chūláile	the moon has come out	3	hsk
+329	30	他 的 脚 很 大	tā de jiǎo hěn dà	his feet are very big	1	hsk
+330	30	她 的 鼻子 很 小	tā de bízi hěn xiǎo	her nose is very small	1	hsk
+331	30	她 的 头发 很 长	tā de tóufǎ hěn zhǎng	her hair is very long	1	hsk
+332	30	那 只 猫 的 耳朵 真 可爱	nà zhǐ māo de ěrduǒ zhēn kě'ài	that cat's ears are really cute	1	hsk
+333	30	狗 有 四条 腿	gǒu yǒu sìtiáo tuǐ	dogs have four legs	1	hsk
+334	30	你 的 脸色 很 红 ， 你 发烧 了 吗	nǐ de liǎnsè hěn hóng, nǐ fāshāole ma?	your face is very red, do you have a fever?	2	hsk
+335	30	因为 天气 冷 我 还是 出去 了 ， 所以 我 感冒 了	yīnwéi tiānqì lěng wǒ háishì chūqùle, suǒyǐ wǒ gǎnmàole	because it was cold but I still went out, I therefore caught a cold.	2	hsk
+336	30	我 明天 去 做 身体检查	wǒ míngtiān qù zuò shēntǐ jiǎnchá	I am going for a physical examination tomorrow	2	hsk
+337	30	我 头疼	wǒ tóu téng	my head hurts	1	hsk
+338	30	我 希望 我 可以 像 她 那样 瘦	wǒ xīwàng wǒ kěyǐ xiàng tā nàyàng shòu	I wish I could be as thin as her	3	hsk
+339	38	我 在 宾馆 忘记 了 我 的 行李箱	wǒ zài bīnguǎn wàngjìle wǒ de xínglǐ xiāng	I forgot my suitcase at the hotel	2	hsk
+340	38	记得 多 带 一 双 鞋	jìdé duō dài yīshuāng xié	remember to bring an extra pair of shoes 	2	hsk
+341	38	他 旅行 时 总是 带 着 照相机	tā lǚxíng shí zǒngshì dàizhe zhàoxiàngjī	he always takes a camera when he travels	3	hsk
+342	38	我 的 眼镜 太 旧 了 ， 我 要 换新 的	wǒ de yǎnjìng tài jiùle, wǒ yào huàn xīn de	my glasses are too old, I need new ones	4	hsk
+343	38	我 在 网上 买 了 一 本 电子书	wǒ zài wǎngshàng mǎile yī běn diànzǐ shū	I bought an e-book online	3	hsk
+344	38	你 觉得 我 的 照片 怎么样	nǐ juédé wǒ de zhàopiàn zěnme yàng	what do you think of my photograph	3	hsk
+345	38	周末 会 下雨 ， 记得 带 伞	zhōumò huì xià yǔ, jìdé dài sǎn	It will rain this weekend, remember to bring an umbrella	1	hsk
+347	31	我 妹妹 用 铅笔 画 了 一 个 苹果	wǒ mèimei yòng qiānbǐ huàle yīgè píngguǒ	my little sister drew an apple with a pencil	1	hsk
+348	31	我 只 认识 简单 的 词语 和 句子	wǒ zhǐ rènshí jiǎndān de cíyǔ hé jùzi	I only know simple words and sentences	1	hsk
+351	37	你 有 我 可以 借 的 字典 吗	nǐ yǒu wǒ kěyǐ jiè de zìdiǎn ma	do you have a dictionary I can borrow?	2	hsk
+352	29	办公室 在 地铁 站 西面	bàngōngshì zài dìtiě zhàn xī miàn	the office is west of the subway station	1	hsk
+353	29	那个 邻居 住 在 我 家 东边	nàgè línjū zhù zài wǒjiā dōngbian	that neighbor lives east of my house	2	hsk
+355	29	我 用 地图 找到 了 这个 地方	wǒ yòng dìtú zhǎodàole zhège dìfāng	I found this place using a map	3	hsk
+356	29	我去 接 他 从 机场 回来	wǒ qù jiē tā cóng jīchǎng huílái	I went to pick him up from the airport	3	hsk
+357	29	我 一直 住 在 这 条 街道 上	wǒ yīzhí zhù zài zhè tiáo jiēdào shàng	I've always lived on this street	3	hsk
+358	29	北方 比 我 住 在 南方 的 时候 冷 多 了	běifāng bǐ wǒ zhù zài nánfāng de shíhòu lěng duōle	it is much colder in the north compared to when I lived in the south	4	hsk
+359	29	我 家 和 邻居 家 中间 有 一 个 公园	wǒjiā hé línjū jiā zhōngjiān yǒu yīgè gōngyuán	there is a park between my house and my neighbor's house	4	hsk
+360	29	我 一 刻 钟 后 就要 离开	wǒ yīkè zhōng hòu jiù yào líkāi	I'm leaving in a quarter hour	4	hsk
+361	26	这个 房间 非常 干净	zhège fángjiān fēicháng gānjìng	this room is very clean	3	hsk
+362	42	虽然 他 的 成绩 比较 差 ， 但 他 非常 聪明	suīrán tā de chéngjī bǐjiào chà, dàn tā fēicháng cōngmíng	although his grades are relatively poor, he is very smart	2	hsk
+363	42	你 和 她 是 什么 关系	nǐ hé tā shì shénme guānxì	what is your relationship with her	2	hsk
+364	32	这个 裙子 太 短 了	zhège qúnzi tài duǎnle	this skirt is too short	3	hsk
+365	42	他 的 声音 很 低	tā de shēngyīn hěn dī	his voice is low	1	hsk
+366	25	那 家 餐馆 在 这个 城市 很 有名	nà jiā cānguǎn zài zhège chéngshì hěn yǒumíng	that restaurant is very famous in this city	4	hsk
+367	25	这 碗 面的 味道 真 奇怪	zhè wǎn miàn de wèidào zhēn qíguài	this bowl of noodles tastes really strange	4	hsk
+368	25	你们 决定 去 哪 家 餐厅 了 吗	nǐmen juédìng qù nǎ jiā cāntīngle ma	have you decided which restaurant you're going to?	4	hsk
+369	25	我们 今晚 九 点 在 餐厅 见面	wǒmen jīn wǎn jiǔ diǎn zài cāntīng jiànmiàn	we will meet at the restaurant tonight at nine o'clock	4	hsk
+370	40	我 喜欢 听 音乐 表演	wǒ xǐhuān tīng yīnyuè biǎoyǎn	I like to listen to music performances	2	hsk
+371	44	我 发现 了 一家 新 的 便宜 超市	wǒ fāxiànle yījiā xīn de piányí chāoshì	I discovered a new cheap supermarket	4	hsk
+372	32	这 件 衬衫 很 舒服	zhè jiàn chènshān hěn shūfú	this shirt is very comfortable	3	hsk
+373	44	这个 蛋糕 很 容易 做	zhège dàngāo hěn róngyì zuò	this cake is easy to make	2	hsk
+374	43	他 的话 使 我 很 难过	tā de huà shǐ wǒ hěn nánguò	his words made me very sad	3	hsk
+375	43	看到 孩子们 没 做作 业 ， 妈妈 生气 极了	kàn dào háizimen méi zuò zuo yè, māmā shēngqì jíle.	The mother was extremely angry when she saw that the children did not do their homework.	2	hsk
+376	43	孩子 看到 那 条 大 狗 就 害怕 得 哭 了	Háizi kàn dào nà tiáo dà gǒu jiù hàipà dé kūle	the little child cried out of fear upon seeing the big dog	2	hsk
+377	43	他 迟到 了 会议 ， 所以 很 着急	tā chídàole huìyì, suǒyǐ hěn zhāojí	he was late for the meeting, so he was very anxious	1	hsk
+378	43	孩子 看到 生日 礼物 后 很 满意	háizi kàn dào shēngrì lǐwù hòu hěn mǎnyì	the child was very satisfied after seeing the birthday gift	2	hsk
+379	13	我 想要 一 斤 羊肉	wǒ xiǎng yào yī jīn yángròu	I want a killogram of mutton	3	hsk
+380	38	这 是 我 过去 的 照片	zhè shì wǒ guòqù de zhàopiàn	this is a photo from my past	3	hsk
+381	34	我 经常 锻炼 身体	wǒ jīngcháng duànliàn shēntǐ	I exercise regularly	3	hsk
+382	33	我们 刚才 开始 为 明天 的 考试 学习	wǒmen gāngcái kāishǐ wéi míngtiān de kǎoshì xuéxí	we just started studying for tomorrow's exam	2	hsk
+383	39	好久 没 这么 冷 的 天气 了	hǎojiǔ méi zhème lěng de tiānqìle	it hasn't been this cold for a long time	1	hsk
+384	28	请 你 先 说	Qǐng nǐ xiān shuō	Please, you speak first	1	hsk
+386	34	我 每天 早上 六 点 半 起床 ， 然后 去 锻炼	wǒ měitiān zǎoshangm liù diǎn bàn qǐchuáng, ránhòu qù duànliàn	I wake up at 6:30 every morning, then go to exercise	1	hsk
+387	34	完成 运动 以后 ， 我 喜欢 喝 苹果汁	wánchéng yùndòng yǐhòu, wǒ xǐhuān hē píngguǒ zhī	after completing exercise, I like to drink apple  juice	3	hsk
+388	40	最近 她 学习 了 做 一些 中国菜	zuìjìn tā xuéxíle zuò yīxiē zhōngguó cài	recently, she has learned to cook some chinese dishes	2	hsk
+389	24	弟弟 才 十 岁 就 这么 高	dìdì cái shí suì jiù zhème gāo	My little brother is so tall at only ten years old	1	hsk
+390	35	我 认为 这 只 熊猫 很 可爱	wǒ rènwéi zhè zhǐ xióngmāo hěn kě'ài	I think this panda is very cute	1	hsk
+391	37	你 可以 在 我 需要 离开 一会儿 的 时候 看 一下 我 的 狗 吗	nǐ kěyǐ zài wǒ xūyào líkāi yīhuǐ'er de shíhòu kàn yīxià wǒ de gǒu ma	can you watch my dog if I need to step away for a while?	2	hsk
+392	29	经过 几个 小时 , 我 终于 看到 了 火车 进 站	jīngguò jǐ gè xiǎoshí, wǒ zhōngyú kàn dàole huǒchē jìn zhàn	after several hours, I finally saw the train entering the station	4	hsk
+393	29	开车 时 请 注意 路	kāichē shí qǐng zhùyì lù	please pay attention to the road when driving	3	hsk
+394	40	我 妈妈 不 同意 我 晚 出门	wǒ māmā bù tóngyì wǒ wǎn chūmén	my mother doesn't agree with me going out late	4	hsk
+395	27	我 想 去 旅游 世界	wǒ xiǎng qù lǚyóu shìjiè	I want to travel the world	3	hsk
+396	40	看 太 多 电影 会 影响 你 的 学习	kàn tài duō diànyǐng huì yǐngxiǎng nǐ de xuéxí	watching too many movies will affect your studies	4	hsk
+397	30	药 作用 很 快	yào zuòyòng hěn kuài	the medicine takes effect very quickly	2	hsk
+398	26	我 把 水果 放進 冰箱	wǒ bǎ shuǐguǒ fàng jìn bīngxiāng	I put the fruits in the fridge	1	hsk
+400	25	那 杯 果汁 是 五 元 三十 分	nà bēi guǒzhī shì wǔ yuán sānshí fēn	that glass of juice is five yuan and thirty cents	2	hsk
+401	33	如果 你 不 明白 ， 就 问 老师	rúguǒ nǐ bù míngbái, jiù wèn lǎoshī	if you don't understand, ask the teacher	3	hsk
+402	47	我们 计划 在 寒假 去 长城	wǒmen jìhuà zài hánjià qù chángchéng	we plan to go to the Great Wall during the winter vacation	1	hsk
+403	47	下周 我 将 访问 公司 在 亚洲 的 办公室	xià zhōu wǒ jiāng fǎngwèn gōngsī zài yàzhōu de bàngōngshì	next week I will visit the company's offices in Asia	3	hsk
+404	47	我们 的 导游 说 ， 长江 上 的 风景 真是 美 极了	wǒmen de dǎoyóu shuì, chángjiāng shàng de fēngjǐng zhēnshi měi jíle	our tour guide said that the scenery by the Yangtze River is really beautiful	2	hsk
+405	47	我 在 去 中国 放暑假 前 ， 正在 学习 中文	wǒ zài qù zhōngguó fàng shǔjià qián, zhèngzài xuéxí zhōngwén	I am learning Chinese before going to China for summer vacation	3	hsk
+406	47	我们 的 航班 一 小时 后 起飞	wǒmen de hángbān yī xiǎoshí hòu qǐfēi	our flight takes off in one hour	4	hsk
+407	48	我 喜欢 吃 饼干 和 巧克力	wǒ xǐhuān chī bǐnggān hé qiǎokèlì	I like to eat cookies and chocolate	3	hsk
+408	48	这 茶 很 苦	zhè chá hěn kǔ	this tea is very bitter	1	hsk
+409	48	我 讨厌 酸辣汤	wǒ tǎoyàn suān là tāng	I hate hot and sour soup	2	hsk
+410	48	这个 汤 只 需要 稍微 加 一点 盐	zhège tāng zhǐ xūyào shāowéi jiā yīdiǎn yán	this soup just needs a little more salt added	3	hsk
+411	48	这 碗 西红柿 汤 真香 ， 我 想 马上 尝 尝	zhè wǎn xīhóngshì tāng zhēnxiāng, wǒ xiǎng mǎshàng cháng cháng	this bowl of tomato soup is really fragrant, I want to taste it right away	1	hsk
+412	95	他 学习 了 两 年 后 成为 了 数学 硕士 学生	tā xuéxíle liǎng nián hòu chéngwéile shùxué shuòshì xuéshēng	after studying for two years, he became a master's student in mathematics	2	hsk
+413	95	我 的 研究生 教育 让 我 获得 了 很 多 知识	wǒ de yánjiūshēng jiàoyù ràng wǒ huòdéle hěnduō zhīshì	my graduate education gave me a lot of knowledge	2	hsk
+414	95	我 已经 预习 完 我 的 中文 课 的 内容 了 ， 明天 就 可以 轻松 回答 教授 的 提问 了	wǒ yǐjīng yùxí wán wǒ de zhōngwén kè de nèiróngle, míngtiān jiù kěyǐ qīngsōng huídá jiàoshòu de tíwènle	I have already finished previewing the content for my Chinese class, tomorrow I will be able to easily reply to the professor's questions	1	hsk
+415	49	把 答案 写 在 笔记本 上	bǎ dá'àn xiě zài bǐjìběn shàng	write the answers in your notebook	2	hsk
+416	49	毕业 后 我 计划 上 大学	bìyè hòu wǒ jìhuà shàng dàxué	after graduation I plan to go to college	1	hsk
+417	23	那个 打 篮球 的 人 跳 得很 高	nàgè dǎ lánqiú de rén tiào dé hěn gāo	that man playing basketball jumped really high	2	hsk
+418	50	森林 里 的 猴子 在 树 上 跳 来 跳 去	sēnlín lǐ de hóuzi zài shù shàng tiào lái tiào qù	the monkeys in the forest are jumping from tree to tree	1	hsk
+419	50	我 喜欢 海洋 ， 因为 那儿 的 空气 非常 新鲜	wǒ xǐhuān hǎiyáng, yīnwèi nà'er de kōngqì fēicháng xīnxiān	I like the ocean because the air there is very fresh	2	hsk
+420	50	这 棵 树 的 叶子 在 秋天 变成 了 红色	Zhè kē shù de yèzi zài qiūtiān biànchéngle hóngsè	the leaves of this tree turn red in autumn	2	hsk
+421	50	地球 上 的 每 一种 植物 都 需要 阳光 来 生长	dìqiú shàng de měi yī zhòng zhíwù dōu xūyào yángguāng lái shēngzhǎng	every plant on Earth needs sunlight to grow.	4	hsk
+422	50	老虎 在 森林 里 的 河边 喝 水	lǎohǔ zài sēnlín lǐ de hé biān hē shuǐ	the tiger is drinking water by the river in the forest	1	hsk
+423	13	你 喜欢 吃 肉 吗	nǐ xǐhuān chī ròu ma	do you like to eat meat	3	hsk
+424	50	狮子 为了 成长 必须 吃 大量 的 肉	shīzi wèile chéngzhǎng bìxū chī dàliàng de ròu	lions must eat a lot of meat in order to grow	3	hsk
+425	50	这 朵 花 是 白色 的	zhè duǒ huā shì báisè de	this flower is white	4	hsk
+426	50	我 喜欢 这个 地方 的 自然 风景	wǒ xǐhuān zhège dìfāng de zìrán fēngjǐng	I like the natural scenery of this place	3	hsk
+427	51	我 正在 准备 出差 的 行李 ， 因为 明天 我 必须 去 北京 开会	wǒ zhèngzài zhǔnbèi chūchāi de xínglǐ, yīn wéi míngtiān wǒ bìxū qù běijīng kāihuì	I am currently preparing for my business trip because tomorrow I must go to Beijing for a meeting	3	hsk
+429	51	因为 要 照顾 生病 的 孩子 ， 他 请假 一周 离开 公司	yīnwèi yào zhàogù shēngbìng de háizi, tā qǐngjià yīzhōu líkāi gōngsī	because he needs to take care of his sick child, he requested a week's leave from the company	2	hsk
+430	51	他 决定 自己 做生意 ， 并 开始 招聘 新 员工	tā juédìng zìjǐ zuò shēngyì, bìng kāishǐ zhāopìn xīn yuángōng	he decided to start his own business and started recruiting new employees	1	hsk
+431	51	上个月 他 的 工资 增加 了 五 百 元	shàng gè yuè tā de gōngzī zēngjiāle wǔbǎi yuán	his salary increased by five hundred yuan last month	4	hsk
+432	51	我 决定 租 一 间 办公室 来 扩大 我 的 生意	wǒ juédìng zū yī jiàn bàngōngshì lái kuòdà wǒ de shēngyì	I decided to rent an office to expand my business	1	hsk
+433	51	今晚 大家 必须 加班	jīn wǎn dàjiā bìxū jiābān	everyone must work overtime tonight	4	hsk
+434	52	由于 突然 来 的 堵车 ， 我们 迟到 了 半个 小时	yóuyú túrán lái de dǔchē, wǒmen chídàole bàn gè xiǎoshí	we were half an hour late due to a sudden traffic jam	2	hsk
+435	52	我 今天 早上 乘坐 公交车 出发 去 工作	wǒ jīntiān zǎoshang chéngzuò gōngjiāo chē chūfā qù gōngzuò	this morning I took the bus to set off for work.	1	hsk
+436	52	这 座 桥 很 窄	zhè zuò qiáo hěn zhǎi	this bridge is very narrow	3	hsk
+437	52	这个 城市 的 交通 非常 方便	zhège chéngshì de jiāotōng fēicháng fāngbiàn	the transportation in this city is very convenient	1	hsk
+438	52	我们 需要 往 加油站 开车 去	wǒmen xūyào wǎng jiāyóu zhàn kāichē qù	we need to drive to the gas station	3	hsk
+439	53	这个 房间 真 乱 ， 你 应该 收拾 一下	zhège fángjiān zhēn luàn, nǐ yīnggāi shōushí yīxià	this room is so messy, you should tidy up	2	hsk
+440	53	钥匙 挂 在 门 旁边 的 墙 上	yàoshi guà zài mén pángbiān de qiáng shàng	the keys are hanging on the wall beside the door	1	hsk
+441	53	今天 这么 热 ， 你 能 打开 窗户 吗	jīntiān zhème rè, nǐ néng dǎkāi chuānghù ma	it's so hot today, can you open the window	1	hsk
+443	53	我 觉得 我 的 手机 掉 到 沙发 下面 了 ， 你 能 检查 一下 吗	wǒ juédé wǒ de shǒujī diào dào shāfā xiàmiànle, nǐ néng jiǎnchá yīxià ma	I think my phone fell under the sofa, could you please check	3	hsk
+444	53	洗衣机 坏了 ， 需要 修 一下	xǐyījī huàile, xūyào xiū yīxià	the washing machine is broken, it needs a bit of fixing	3	hsk
+445	53	我 搬家 了 ， 这 是 我 的 新 地址	wǒ bānjiāle, zhè shì wǒ de xīn dìzhǐ	I moved, this is my new address	4	hsk
+446	53	我们 的 牙膏 用完 了 ， 你 明天 可以 买 一些 吗	wǒmen de yágāo yòng wánliǎo, nǐ míngtiān kěyǐ mǎi yīxiē ma	we have used up the toothpaste, can you buy some tomorrow	4	hsk
+447	53	我们 搬家 后 需要 买 些 新 的 家具	wǒmen bānjiā hòu xū yāo mǎi xiē xīn de jiājù	after we move, we need to buy some new furniture	4	hsk
+448	54	护士 轻轻 地 为 病人 打针	hùshì qīng qīng dì wéi bìngrén dǎzhēn	the nurse gently gave the patient an injection	3	hsk
+449	54	他 吃 得 太 快 ， 现在 肚子 疼	tā chī dé tài kuài, xiànzài dùzi téng	he ate too fast, now his stomach hurts	2	hsk
+450	54	我 今天 好像 没有 精神 ， 我 感到 非常 难受	wǒ jīntiān hǎoxiàng méiyǒu jīngshén, wǒ gǎndào fēicháng nánshòu	it seems as if I don't have energy today, I feel very uncomfortable.	2	hsk
+451	54	他 一定 是 感冒 了 ， 他 今天 咳嗽 得很 厉害	tā yīdìng shì gǎnmàole, tā jīntiān késòu dé hěn lìhài	he must have caught a cold, he has been coughing severely today	1	hsk
+452	51	我们 的 办公室 在 底层	wǒmen de bàngōngshì zài dǐcéng	our office is at the ground floor	4	hsk
+453	54	她 坐 在 太阳 底下 太 久 ， 皮肤 都 变红 了	tā zuò zài tàiyáng dǐxia tài jiǔ, pífū dōu biàn hóngle	she sat under the sun for too long, her skin turned red	1	hsk
+454	55	信用卡 购物 非常 方便	xìnyòngkǎ gòuwù fēicháng fāngbiàn	shopping with a credit card is very convenient	1	hsk
+455	55	这个 市场 的 售货员 很 友好	zhège shìchǎng de shòuhuòyuán hěn yǒuhǎo	the salespeople at this market are very friendly	2	hsk
+456	55	我们 为 每 位 顾客 提供 免费 的 塑料袋	wǒmen wèi měi wèi gùkè tígōng miǎnfèi de sùliào dài	we provide free plastic bags for every customer	1	hsk
+457	55	这 件 衬衫 的 价格 是 差不多 一 百 人民币	zhè jiàn chènshān de jiàgé shì chàbùduō yībǎi rénmínbì	the price of this shirt is around one hundred RMB 	2	hsk
+458	56	父亲 正在 抱 他 的 儿童	fùqīn zhèngzài bào tā de értóng	the father is holding his child	1	hsk
+459	56	母亲 和 父亲 都 非常 喜欢 他们 的 孙子	mǔqīn hé fùqīn dōu fēicháng xǐhuān tāmen de sūnzi	both mother and father really like their grandson	1	hsk
+460	56	他 是 我 的 远亲 戚	tā shì wǒ de yuǎn qīnqī	he is my distant relative	2	hsk
+461	56	所有 亲戚 都 对 新 孩子 的 性别 很 感兴趣	suǒyǒu qīnqī dōu duì xīn háizi dì xìngbié hěn gǎn xìngqù	all relatives are interested in the gender of the new baby	2	hsk
+462	57	这 本 小说 的 作者 使用 了 复杂 的 语言	zhè běn xiǎoshuō de zuòzhě shǐyòngle fùzá de yǔyán	the author of this novel uses complex language	5	hsk
+463	57	如果 你 想 提高 中文 语法 水平 ， 就 需要 多 阅读 中文 小说 和 杂志	rúguǒ nǐ xiǎng tígāo zhōngwén yǔfǎ shuǐpíng, jiù xūyào duō yuèdú zhōngwén xiǎoshuō he zázhì	if you want to improve your Chinese grammar proficiency, you need to read more Chinese novels and magazines	4	hsk
+465	57	中文 变得 流利 后 ， 我 可以 轻松 翻译 很 多 书	zhōngwén biàn dé liúlì hòu, wǒ kěyǐ qīngsōng fānyì hěnduō shū	after becoming fluent in Chinese, I can easily translate many books	4	hsk
+466	57	那 本 书 是 由 谁 写 的	nà běn shū shì yóu shéi xiě de	who is that book written by	5	hsk
+467	57	  这 本 书 真的 很 好 ， 我 已经 读 到 一 百 页 了	zhè běn shū zhēn de hěn hǎo, wǒ yǐjīng dú dào yībǎi yèle	This book is really good, I've already read one hundred pages	1	hsk
+468	57	当 我 读 中文 小说 时 ， 我 身边 总是 有 一 本 词典	dāng wǒ dú zhōngwén xiǎoshuō shí, wǒ shēnbiān zǒng shì yǒuyī běn cídiǎn	when I read Chinese novels, I always have a dictionary next to me	3	hsk
+469	58	我 需要 向 大使馆 申请 签证	Wǒ xūyào xiàng dàshǐguǎn shēnqǐng qiānzhèng	I need to apply for a visa at the embassy	1	hsk
+470	58	合格 的 律师 必须 熟悉 所有 法律 标准	hégé de lǜshī bìxū shúxī suǒyǒu fǎlǜ biāozhǔn	a qualified lawyer must be familiar with all legal standards	2	hsk
+471	59	在 过去 的 一 年 里 ， 他 的 乒乓球 能力 逐渐 超过 了 他 的 朋友	zài guòqù de yī nián lǐ, tā de pīngpāng qiú nénglì zhújiàn chāoguòle tā de péngyǒu	over the past year, his table tennis ability has gradually surpassed his friend's	2	hsk
+472	59	打 网球 需要 很 多 力气	dǎ wǎngqiú xūyào hěnduō lìqì	playing tennis requires a lot of strength	4	hsk
+473	59	他 是 因为 打 羽毛球 而 满身 大汗	tā shì yīnwèi dǎ yǔmáoqiú ér mǎn shēn dà hàn	he is full of sweat from playing badminton	1	hsk
+474	59	尽管 他 很 努力 ， 但 还是 输掉 了 比赛	jǐnguǎn tā hěn nǔlì, dàn háishì shū diàole bǐsài	despite his efforts he still lost the match	1	hsk
+475	60	如果 来得及 ， 我 将会 提前 做 好 所有 准备	rúguǒ láidéjí, wǒ jiāng huì tíqián zuò hǎo suǒyǒu zhǔnbèi	if I have time, I will make all preparations in advance	2	hsk
+476	60	她 刚刚 来到 ， 我 就要 离开 了 ， 实在 是 来不及 见面 了	she just arrived and I have to leave, there's really no time to meet	tā gānggāng lái dào, wǒ jiù yào líkāile, shízài shì láibují jiànmiànle	3	hsk
+478	60	对 那些 大学生 来说 ， 他们 往往 关心 自己 的 将来 职业	duì nàxiē dàxuéshēng lái shuō, tāmen wǎngwǎng guānxīn zìjǐ de jiānglái zhíyè	for those college students, they often care about their future careers	1	hsk
+479	60	我 和 她 偶尔 会 在 午饭 时间 见面	wǒ hé tā ǒu'ěr huì zài wǔfàn shíjiān jiànmiàn	she and I occasionally meet at lunchtime	3	hsk
+480	61	我 已经 收到 她 的 聚会 邀请	wǒ yǐjīng shōu dào tā de jùhuì yāoqǐng	I have already received her party invitation	2	hsk
+481	61	今晚 的 派对 ， 我们 需要 正式 打扮	jīn wǎn de pàiduì, wǒmen xūyào zhèngshì dǎbàn	for tonight's party, we need to dress formally	2	hsk
+483	61	母亲 为 祝贺 我 毕业 ， 决定 在家 里 请客 吃饭	mǔqīn wèi zhùhè wǒ bìyè, juédìng zài jiālǐ qǐngkè chīfàn	to celebrate my graduation, my mother has decided to host a dinner at home	1	hsk
+484	61	每当 新年 晚上 到来 时 ， 我们 家里 总是 很 热闹	měi dāng xīnnián wǎnshàng dàolái shí, wǒmen jiālǐ zǒng shì hěn rènào	Whenever New Year's Eve arrives, our home is always very lively	1	hsk
+485	62	他 在 镜子 中看 到 自己 的 样子 ， 决定 开始 减肥	tā zài jìngzi zhòng kàn dào zìjǐ de yàngzi, juédìng kāishǐ jiǎnféi	he saw his appearance in the mirror and decided to start losing weight	2	hsk
+486	62	我 明天 要 去 理发	wǒ míngtiān yào qù lǐfǎ	I will go get a haircut tomorrow	2	hsk
+487	62	她 的 裙子 吸引 了 很 多 人 的 注意	tā de qúnzi xīyǐnle hěnduō rén de zhùyì	her dress attracted a lot of people's attention	1	hsk
+488	63	咱们 在 公园 的 约会 非常 浪漫	zánmen zài gōngyuán de yuēhuì fēicháng làngmàn	our date at the park was very romantic	1	hsk
+489	63	她 给 我 留下 她 的 联系 电话	tā gěi wǒ liú xià tā de liánxì diànhuà	she left me her contact number	3	hsk
+490	66	这个 消息 是 我 从 今天 早上 的 新闻 广播 中 得知 的	zhège xiāoxī shì wǒ cóng jīntiān zǎoshang de xīnwén guǎngbò zhōng dé zhī de	I learned this news from the broadcast this morning	3	hsk
+491	94	这位 著名 演员 今晚 将 在 电视 上演 出 京剧	zhè wèi zhùmíng yǎnyuán jīn wǎn jiàng zài diànshì shàng yǎnchū jīngjù	the famous actor will perform Peking Opera on TV tonight	1	hsk
+492	66	电视 上 太 多 的 广告 引起 了 观众 不满	diànshì shàng tài duō de guǎnggào yǐnqǐle guānzhòng bùmǎn	too many ads on TV have caused viewer dissatisfaction	1	hsk
+493	66	记者报道 了 今天 的 新闻	jìzhě bàodàole jīntiān de xīnwén	the reporter reported today's news	2	hsk
+494	57	这 本 小说 有 很 多 对话	zhè běn xiǎoshuō yǒu hěnduō duìhuà	this novel has a lot of dialog	1	hsk
+497	70	他们 通过 写作 来 表达 了 自己 的 意见	tāmen tōngguò xiězuò lái biǎodále zìjǐ de yìjiàn	they expressed their opinions through writing	1	hsk
+498	70	见面 时 ， 他 和 我 互相 握手	jiànmiàn shí, tā hé wǒ hùxiāng wòshǒu	when we met, he and I shook hands with each other	2	hsk
+499	70	在 会议 上 ， 所有 人 都 可以 互相 交流 看法	aài huìyì shàng, suǒyǒu rén dōu kěyǐ hù xiàng jiāoliú kànfǎ	in the meeting, everyone can exchange their views with each other	2	hsk
+500	70	在 课 后 ， 学生 们 开始 讨论 作业 题	zài kè hòu, xuéshēngmen kāishǐ tǎolùn zuòyè tí	after class, the students started discussing the homework questions	3	hsk
+501	70	在 喝 下午茶 的 时候 ， 我们 喜欢 聊天	zài hē xiàwǔ chá de shíhòu, wǒmen xǐhuān liáotiān	while having afternoon tea, we like to chat	3	hsk
+502	71	我们 的 老师 对 我们 非常 严格	wǒmen de lǎoshī duì wǒmen fēicháng yángé	our teacher is very strict with us	1	hsk
+503	66	这个 电影 真 无聊	zhège diànyǐng zhēn wúliáo	This movie is really boring	3	hsk
+504	71	他 是 一 个 非常 笨 的 孩子	tā shì yīgè fēicháng bèn de háizi	he is a very stupid child	1	hsk
+505	71	他 的 工作 态度 太 马虎 了	tā de gōngzuò tàidù tài mǎhǔle	his work attitude is too careless	1	hsk
+506	71	孩子们 需要 耐心 教育	háizimen xūyào nàixīn jiàoyù	children need patient education	3	hsk
+507	71	他 今天 看起来 特别 懒	tā jīntiān kàn qǐlái tèbié lǎn	he looks particularly lazy today	3	hsk
+508	94	听到 众人 为 他 鼓掌 ， 他 看起来 十分 得意	tīng dào zhòngrén wéi tā gǔzhǎng, tā kàn qǐlái shífēn déyì	hearing everyone applaud for him, he appeared very proud	2	hsk
+509	94	他 的 演出 受到 了 很 多 表扬	tā de yǎnchū shòudàole hěnduō biǎoyáng	his performance received a lot of praise	2	hsk
+510	71	在 生意 方面 ， 他 总是 很 诚实	zài shēngyì fāngmiàn, tā zǒng shì hěn chéngshí	in terms of business, he is always very honest.	3	hsk
+511	93	我们 本来 计划 去 旅行 ， 可是 由于 一些 严重 的 困难 ， 不得不 推迟	wǒmen běnlái jìhuà qù lǚxíng, kěshì yóuyú yīxiē yánzhòng de kùnnán, bùdé bù tuīchí	we originally planned to go on a trip, but due to some serious difficulties, we had to postpone it	3	hsk
+512	93	我们 的 计划 会 根据 情况 而 改变	wǒmen de jìhuà huì gēnjù qíngkuàng ér gǎibiàn	our plans will change according to the situation	2	hsk
+513	93	抱歉 ， 我 今天 不能 和 你 一起 去 散步 了	bàoqiàn, wǒ jīntiān bùnéng hé nǐ yīqǐ qù sànbùle	sorry, I can't go for a walk with you today	1	hsk
+514	93	我 想 提醒 你 ， 下周 末 我们 有 个 旅行 计划	wǒ xiǎng tíxǐng nǐ, xià zhōumò wǒmen yǒu gè lǚxíng jìhuà	I want to remind you that we have travel plans next weekend	1	hsk
+515	93	我 明天 会 通知 他 计划 变化	wǒ míngtiān huì tōngzhī tā jìhuà biànhuà	 I will inform him about the changes to the plan tomorrow	1	hsk
+516	92	成功 的 一 天后 ， 我 会 早点 睡觉	chénggōng de yī tiānhòu, wǒ huì zǎodiǎn shuìjiào	after a successful day, I will go to bed early	1	hsk
+517	92	这 张 床 太 硬 了	zhè zhāng chuáng tài yìngle	this bed is too hard	2	hsk
+518	92	我 大概 早上 六 点 起床	wǒ dàgài zǎoshang liù diǎn qǐchuáng	I get up at about six o'clock in the morning	2	hsk
+519	92	你 喜欢 软 床 还是 硬 床	nǐ xǐhuān ruǎn chuáng háishì yìng chuáng	do you like soft beds or hard beds	2	hsk
+520	92	昨晚 我 三 点 突然 醒 了	zuó wǎn wǒ sān diǎn túrán xǐngle	I woke up suddenly at three o'clock last night	1	hsk
+521	92	我 每天 起床 都会 整理 床	wǒ měitiān qǐchuáng dūhuì zhěnglǐ chuáng	I make the bed every day when I get up	1	hsk
+522	92	昨晚 我 做 了 一 个 好 梦	zuó wǎn wǒ zuòle yīgè hǎo mèng	I had a good dream last night	1	hsk
+523	91	学校 距离 这里 五 公里	xuéxiào jùlí zhèlǐ wǔ gōnglǐ	the school is five kilometers from here	2	hsk
+524	62	他 的 个子 很 高	tā de gèzi hěn gāo	he is very tall	1	hsk
+525	91	我们 周围 都 是 美丽 的 自然 风景	wǒmen zhōuwéi dōu shì měilì de zìrán fēngjǐng	we are surrounded by beautiful natural scenery	3	hsk
+526	91	路 对面 的 商店 已经 关门 了	lù duìmiàn de shāngdiàn yǐjīng guānménle	the store across the street is already closed	2	hsk
+527	91	你 能 告诉 我去 图书馆 的 方向 吗	nǐ néng gàosù wǒ qù túshū guǎn de fāngxiàng ma	can you tell me the direction to the library	1	hsk
+528	91	她 在 房间 里 到处 找 她 丢 的 手表	tā zài fángjiān lǐ dàochù zhǎo tā diū de shǒubiǎo	she searched all over her room for the watch that she lost	1	hsk
+529	91	我们 的 会议 正在 学校 图书馆 内 进行	wǒmen de huìyì zhèngzài xuéxiào túshū guǎn nèi jìnxíng	our meeting is taking place in the school library	1	hsk
+530	94	他们 都 被 她 的 演出 感动 了	tāmen dōu bèi tā de yǎnchū gǎndòngle	they were all moved by her performance	1	hsk
+531	91	明天 晚上 我 可以 陪 你 去 公园 逛逛	míngtiān wǎnshàng wǒ kěyǐ péi nǐ qù gōngyuán guàng guàng	tomorrow night I can go with you for a stroll in the park	3	hsk
+532	72	你 能 为 我 发 传真 到 这个 号码 吗	nǐ néng wéi wǒ fā chuánzhēn dào zhège hàomǎ ma	can you send a fax for me to this number	1	hsk
+533	63	她 对 他 一直 有 很 深 的 感情	tā duì tā yīzhí yǒu hěn shēn de gǎnqíng	she always had very deep feelings for him	1	hsk
+534	56	他 的 父母 很 老 了	tā de fùmǔ hěn lǎole	his parents are very old	2	hsk
+535	84	我 的 父母 因为 我 的 学习 成绩 感到 很 烦恼	wǒ de fùmǔ yīnwèi wǒ de xuéxí chéngjī gǎndào hěn fánnǎo	my parents are very distressed about my academic performance	3	hsk
+536	84	  如果 我们 不 马上 出发 ,   恐怕 火车 会 离开	rúguǒ wǒmen bù mǎshàng chūfā, kǒngpà huǒchē huì líkāi	If we don't set off at once, I'm afraid the train will depart	1	hsk
+537	59	因为 失败 了 比赛 ， 他 非常 失望	yīnwèi shībàile bǐsài, tā fēicháng shīwàng	he was very disappointed because he lost the game	3	hsk
+538	84	他 对 邻居 家 大 花园 深感 羡慕	tā duì línjū jiā dà huāyuán shēn gǎn xiànmù	he was deeply envious of his neighbor's big garden	1	hsk
+539	47	寒假 里 ， 我 过得 十分 愉快	hánjià lǐ, wǒguò dé shífēn yúkuài	during the winter break, I had a very pleasant time	1	hsk
+540	59	我 非常 有 信心 他 能 赢得 比赛	wǒ fēicháng yǒu xìnxīn tā néng yíngdé bǐsài	I'm very confident that he can win the match	3	hsk
+541	84	考试 前 我 总是 感到 非常 紧张	kǎoshì qián wǒ zǒng shì gǎndào fēicháng jǐnzhāng	I always feel very nervous before exams	1	hsk
+542	84	女孩 收到 礼物 后 ， 激动 地 跳 了 起来	nǚhái shōu dào lǐwù hòu, jīdòng dì tiàole qǐlái	after receiving the gift, the girl jumped up excitedly	1	hsk
+543	84	今天 早上 我 心情 很 好	jīntiān zǎoshang wǒ xīnqíng hěn hǎo	I'm in a good mood this morning	3	hsk
+544	92	我 感觉 很 累	wǒ gǎnjué hěn lèi	I feel very tired	2	hsk
+545	80	温度 突然 下降 了 , 好像 要 下雨	wēndù túrán xiàjiàngle, hǎoxiàng yào xià yǔ	the temperature suddenly dropped, it seems as if it's going to rain	3	hsk
+546	80	森林 的 气候 非常 湿润	sēnlín de qìhòu fēicháng shīrùn	the climate of the forest is very humid	1	hsk
+547	80	今天 的 风 真 凉快	jīntiān de fēng zhēn liángkuai	the wind is really nice and cool today	2	hsk
+548	80	每年 冬季 ， 空气 会 变得 更 干燥	měinián dōngjì, kōngqì huì biàn dé gèng gānzào	every winter, the air becomes more dry	3	hsk
+549	80	今天 的 天气 真 暖和	jīntiān de tiānqì zhēn nuǎnhuo	the weather is really warm today	1	hsk
+550	80	云 忽然 变暗 了	yún hūrán biàn ànle	the clouds suddenly darkened	1	hsk
+551	79	禁止 在 这个 饭馆 抽烟	jìnzhǐ zài zhège fànguǎn chōuyān	smoking is prohibited in this restaurant	1	hsk
+552	79	他 为了 早些 时候 打扰 他 哥哥 学习 道歉 了	tā wèile zǎo xiē shíhòu dǎrǎo tā gēgē xuéxí dàoqiànle	he apologized for disturbing his brother's study earlier	1	hsk
+553	79	感谢 你 为 我 开门	gǎnxiè nǐ wèi wǒ kāimén	thank you for opening the door for me	3	hsk
+554	82	按照 当地 人 的 看法 ， 这 是 城市 里 最好 的 饭馆	anzhào dāngdì rén de kànfǎ, zhè shì chéngshì lǐ zuì hǎo de fànguǎn	according to the locals' opinion, this is the best restaurant in the city	1	hsk
+555	24	我 的 祖母 很 老 了	wǒ de zǔmǔ hěn lǎole	my grandmother is very old	3	hsk
+556	29	在 你 家 附近 有 公园 吗	zài nǐ jiā fùjìn yǒu gōngyuán ma	is there a park near your home	1	hsk
+557	82	首都 污染 严重	shǒudū wūrǎn yánzhòng	the capital has serious pollution	3	hsk
+558	82	他 是 国际 学生	tā shì guójì xuéshēng	he is an international student	1	hsk
+559	82	我 出生 在 农村	wǒ chūshēng zài nóngcūn	I was born in the countryside	3	hsk
+560	42	我 在 图书馆 遇到 了 他	wǒ zài túshū guǎn yù dàole tā	I met him at the library	2	hsk
+561	78	这些 饺子 真的 很 咸	zhèxiē jiǎozi zhēn de hěn xián	these dumplings are really salty	2	hsk
+562	78	这 家 商店 有 最好 的 饮料	zhè jiā shāngdiàn yǒu zuì hǎo de yǐnliào	this store has the best drinks	2	hsk
+563	78	这些 水果 还 没有 成熟	zhèxiē shuǐguǒ hái méiyǒu chéngshú	these fruits still aren't ripe yet	3	hsk
+564	84	当 他 知道 他 的 爷爷 已经 死 了 ， 他 就 流泪 了	dāng tā zhīdào tā de yéyé yǐjīng sǐle, tā jiù liúlèile	when he found out that his grandfather had already died, he cried	3	hsk
+565	84	他 竟然 放弃 了 比赛 ， 真是 太 可惜 了	tā jìngrán fàngqìle bǐsài, zhēnshi tài kěxíle	he actually gave up the match, it's really such a pity.	2	hsk
+566	82	在 这个 城市 里 生活 不容 易	zài zhège chéngshì lǐ shēnghuó bù róngyì	life in this city is not easy	2	hsk
+567	83	这个 工具 的 一 个 缺点 是 它 太 大	zhège gōngjù de yīgè quēdiǎn shì tā tài dà	one drawback of this tool is that it is too large	2	hsk
+568	83	我 被 他 骗 去 买 了 一些 无用 的 东西	wǒ bèi tā piàn qù mǎile yīxiē wúyòng de dōngxī	I was tricked by him into buying some useless things	2	hsk
+569	83	这 家公 司 制造 高质量 的 毛巾	zhè jiā gōngsī zhìzào gāo zhìliàng de máojīn	this company makes high quality towels	3	hsk
+570	83	这 家公 司 非常 重视 材料 的 质量	zhè jiā gōngsī fēicháng zhòngshì cáiliào de zhìliàng	this company places great importance on the quality of materials	1	hsk
+571	53	请 把 脏 衣服 放进 洗衣机	please put the dirty clothes in the washing machine	qǐng bǎ zàng yīfú fàng jìn xǐyījī	3	hsk
+572	83	这 双 袜子 真 厚 ， 而且 很 暖和	zhè shuāng wàzi zhēn hòu, érqiě hěn nuǎnhuo	this pair of socks is really thick and very warm	1	hsk
+573	83	我 的 袜子 破 了 ， 我 需要 买 一 双 新 的	wǒ de wàzi pòle, wǒ xū yāo mǎi yīshuāng xīn de	my socks are damaged, I need to buy a new pair	2	hsk
+574	78	干杯	gānbēi	cheers	3	hsk
+575	78	这 顿 饭 的 味道 非常 好	zhè dùn fàn de wèidào fēicháng hǎo	the taste of this meal is very good	1	hsk
+576	78	他 为 聚会 打开 了 一 瓶 新 酒	tā wèi jùhuì dǎkāile yī píng xīnjiǔ	he opened a new bottle of wine for the party	1	hsk
+577	78	这个 瓶子 里 有水	there is water in this bottle	zhège píngzi li yǒu shuǐ	1	hsk
+578	78	我 要 一 份 蛋糕	wǒ yào yī fèn dàngāo	I want a portion of cake	3	hsk
+579	55	他们 很 穷	tāmen hěn qióng	they are very poor	4	hsk
+580	72	我 忘记 了 我 的 电脑 密码	wǒ wàngjìle wǒ de diànnǎo mìmǎ	I forgot my computer password	3	hsk
+581	72	请 复印 这些 页	qǐng fùyìn zhèxiē yè	please photocopy these pages	2	hsk
+582	72	请 打印 文章	qǐng dǎyìn wénzhāng	please print the article	2	hsk
+583	72	这 是 我 最 喜欢 的 购物 网站	zhè shì wǒ zuì xǐhuān de gòuwù wǎngzhàn	this is my favorite shopping site	1	hsk
+584	72	我 奶奶 不 太 会 用 技术	wǒ nǎinai bù tài huì yòng jìshù	my grandmother can not use technology so well	1	hsk
+585	73	警察 的 责任 是 保护人 们 免 危险	jǐngchá de zérèn shì bǎohù rénmen miǎn wéixiǎn	the responsibility of the police is to protect people from danger	2	hsk
+586	73	警方 正在 调查 火 的 原因	jǐngfāng zhèngzài diàochá huǒ de yuányīn	police are investigating the cause of the fire	1	hsk
+587	62	她 喜欢 戴帽子	tā xǐhuān dài màozi	she likes wearing hats	1	hsk
+588	84	我们 第一次 见面 时 她 很 害羞	wǒmen dì yī cì jiànmiàn shí tā hěn hàixiū	she was very shy when we first met	2	hsk
+589	82	我们 当时 住 在 农村 ， 生活 很 辛苦	wǒmen dāngshí zhù zài nóngcūn, shēnghuó hěn xīnkǔ	we lived in the countryside at that time and life was very hard	2	hsk
+590	47	我 从来没 去 过 中国	wǒ cónglái méi qùguò zhōngguó	I have never been to China	4	hsk
+591	53	我 的 房间 是 他 的 两倍 大	wǒ de fángjiān shì tā de liǎng bèi dà	my room is twice as big as his	4	hsk
+592	57	这 本 书 不仅 适合 孩子们 阅读 ， 甚至 大学生 都 适合	zhè běn shū bùjǐn shìhé háizimen yuèdú, shènzhì dàxuéshēng dōu shìhé	This book is not only suitable for children to read but even is suitable for university students as well	3	hsk
+593	83	这 家公 司 的 所有 材料 都 符合标准 规定	zhè jiā gōngsī de suǒyǒu cáiliào dōu fúhé biāozhǔn guīdìng	all materials from this company comply with standard regulations	3	hsk
+594	55	这 双 鞋子 很 合适 我	zhè shuāng xiézi hěn héshì wǒ	These shoes fit well for me	3	hsk
+595	61	请 您 原谅 我 不能 参加 您 今晚 的 聚会	qǐng nín yuánliàng wǒ bùnéng cānjiā nín jīn wǎn de jùhuì	please forgive me for not being able to attend your party tonight	1	hsk
+596	95	我 的 作业 我 已经 全部 完成 了	wǒ de zuòyè wǒ yǐjīng quánbù wánchéngle	I already completed all my homework	1	hsk
+597	53	这个 房间 缺少 阳光	zhège fángjiān quēshǎo yángguāng	this room lacks sunlight	2	hsk
+598	51	我 的 工作 压力 很 大	wǒ de gōngzuò yālì hěn dà	my work stress is very high	2	hsk
+599	59	我 喜欢 运动 ， 尤其是 乒乓球	Wǒ xǐhuān yùndòng, yóuqí shì pīngpāng qiú	I like sports, especially ping pong	2	hsk
+600	49	我们 在 图书馆 集合	wǒmen zài túshū guǎn jíhé	we are gathering at the library	2	hsk
+601	71	她 是 活泼 的 小 女孩	tā shì huópō de xiǎo nǚhái	she is a lively little girl	2	hsk
+602	49	我 在 学习 科学	wǒ zài xuéxí kēxué	I'm studying science	1	hsk
+603	49	他 每天 都 很 注意 准时 上课	tā měitiān dū hěn zhùyì zhǔnshí shàngkè	he is careful to attend class on time every day	2	hsk
+604	28	早上 突然 遇到 了 一 个 问题 ， 所以 我 迟到 了	zǎoshang túrán yù dàole yīgè wèntí, suǒyǐ wǒ chídàole	I suddenly encountered a problem in the morning, so I was late	3	hsk
+605	40	如果 他 九 点 还 没 出现 ， 我们 就 会 离开	rúguǒ tā jiǔ diǎn hái méi chūxiàn, wǒmen jiù huì líkāi	If he doesn't show up by nine o'clock, we will leave	4	hsk
+606	44	她 喝 了 半 杯 啤酒	tā hēle bàn bēi píjiǔ	she drank half a cup of beer	3	hsk
+608	36	我们 打算 明年 结婚	wǒmen dǎsuàn míngnián jiéhūn	we plan to get married next year	2	hsk
+609	36	在 他 生日 那天 客人 们 送 了 他 很多 礼物	zài tā shēngrì nèitiān kèrénmen sòngle tā hěnduō lǐwù	on his birthday the guests gave him many gifts	3	hsk
+610	36	在 中国 文化 中 ， 春节 是非 常 重要 的 节日	zài zhōngguó wénhuà zhōng, chūnjié shì fēicháng zhòngyào de jiérì	In Chinese culture, the spring festival is a very important festival	1	hsk
+611	36	如果 我 有 机会 ， 我 会 参加 你 的 生日	rúguǒ wǒ yǒu jīhuì, wǒ huì cānjiā nǐ de shēngrì	If I have the opportunity, I will attend your birthday	1	hsk
+612	36	十位 客人 打算 参加 他 的 生日	shí wèi kèrén dǎsuàn cānjiā tā de shēngrì	ten guests plan to attend his birthday	1	hsk
+613	31	这个 故事 是 关于 相信 自己	this story is about believing in oneself	zhège gùshì shì guānyú xiāngxìn zìjǐ	1	hsk
+614	31	我 不 信 这个 故事	I don't believe this story	wǒ bùxìn zhège gùshì	1	hsk
+615	89	身体强化丹	shēntǐ qiánghuà dān	body strengthening pill	1	wuxia
+616	87	这位长老是我们宗门中最强的修炼者	zhè wèi cháng lǎo shì wǒmen zōng mén zhōng zuì qiáng de xiūliàn zhě	this elder is the strongest cultivator in our sect	2	hsk
+617	87	只在淬体境界的他，內灵力实在弱	zhǐ zài cuì tǐ jìngjiè de tā, nèi líng lì shízài ruò	being only at the tempered body realm, his inner spiritual power is indeed weak	1	hsk
+618	87	他是武院的弟子	tā shì wǔ yuàn de dìzǐ	he is a disciple of the martial arts academy	3	hsk
+619	87	弟子在武院锻炼体力	dìzǐ zài wǔ yuàn duànliàn tǐlì	the disciples exercise physical strength at the martial arts academy	3	wuxia
+620	96	弟子们用竹剑练习	dìzǐmen yòng zhú jiàn liànxí	the disciples practice with bamboo swords	1	wuxia
+621	93	如果你对明天的计划有任何问题，请告诉我	rúguǒ nǐ duì míngtiān de jìhuà yǒu rènhé wèntí, qǐng gàosù wǒ	if you have any questions about tomorrow's plans, please let me know	3	hsk
+622	96	他的刀片锋利无比，能切割穿透任何铠甲	tā de dāopiàn fēnglì wúbǐ, néng qiēgē chuāntòu rènhé kǎijiǎ	his blade is incomparably sharp, able to cut through and penetrate any armor	2	wuxia
+623	96	他握住他的剑准备决斗	tā wò zhù tā de jiàn zhǔnbèi juédòu	he grips his sword and prepares for a duel	1	wuxia
+624	96	一柄飞剑划过长空	yī bǐng fēi jiàn huàguò chángkōng	a flying sword streaks across the sky	3	wuxia
+625	89	你要去那片古老的森林里采集灵芝	nǐ yào qù nà piàn gǔlǎo de sēnlín lǐ cǎijí língzhī	You need to go to that ancient forest to collect the lingzhi	2	wuxia
+626	89	这颗灵药会滋养你的元神	zhè kē líng yào huì zīyǎng nǐ de yuán shén	this elixir will nourish your primordial spirit	3	wuxia
+627	90	在突破到元婴期前，需要精心温养灵脉	zài túpò dào yuányīng qī qián, xūyào jīngxīn wēnyǎng língmài	before breaking through to the nascent soul stage, one needs to meticulously nourish the spiritual veins	2	wuxia
+628	90	当他突破到炼气境的时候，他就开始修行冰雪拳	dāng tā túpò dào liànqì jìng de shíhòu, tā jiù kāishǐ xiūxíng bīngxuěquán	when he broke through to the qi refining realm, he began to practice ice snow fist	1	wuxia
+629	90	他的武修为已经达到了天元境	tā de wǔ xiū wéi yǐjīng dádàole tiānyuán jìng	his martial cultivation has already reached the heavenly origin realm	3	wuxia
+630	102	他是我们门派的试炼弟子	tā shì wǒmen ménpài de shì liàn dìzǐ	he is a trial disciple of our sect	1	wuxia
+631	102	这个核心弟子是我们宗门的天才	zhège héxīn dìzǐ shì wǒmen zōng mén de tiāncái	this core disciple is the genius of our sect	1	wuxia
+632	102	这位师兄的实力相当平庸	zhè wèi shīxiōng de shílì xiāngdāng píngyōng	this senior brother's strength is quite mediocre	2	wuxia
+633	102	他为我们门派做出了诸多功劳	tā wèi wǒmen ménpài zuò chūle zhūduō gōngláo	he has made many contributions to our sect	2	wuxia
+634	102	 想要从门派那里获取资源，你需要有足够的贡献点	xiǎng yào cóng ménpài nàlǐ huòqǔ zīyuán, nǐ xūyào yǒu zúgòu de gòngxiàn diǎn	to obtain resources from the sect, you need to have enough contribution points	3	wuxia
+635	101	九尾狐已经活了九百多年	jiǔwěihú yǐjīng huóle jiǔbǎi duō nián	the nine tailed fox has lived for more than nine hundred years	1	wuxia
+636	101	当他到森林采集灵芝时，突然遇到了一条大蛇	dāng tā dào sēnlín cǎijí língzhī shí, túrán yùdàole yītiáo dàshé	when he went to the forest to collect lingzhi, he suddenly encountered a big snake	1	wuxia
+637	101	经过三百年的孵化，朱雀终于从巢里孵了出来	jīngguò sānbǎi nián de fūhuà, zhūquè zhōngyú cóng cháo lǐ fūle chūlái	after three hundred years of incubation, the vermilion bird finally hatched from the nest	2	wuxia
+638	101	他驯服了那只龙	tā xùnfúle nà zhǐ lóng	he tamed that dragon	3	wuxia
+639	101	龍和凤凰在天空中翱翔	lóng hé fènghuáng zài tiānkōng zhōng áoxiáng	the dragon and the phoenix soared in the sky	3	wuxia
+640	98	别放在心上	bié fàng zàixīn shàng	don't take it to heart	1	wuxia
+641	98	蛤蟆想吃天鹅肉	hámá xiǎng chī tiān'é ròu	toad wants to eat swan meat	2	wuxia
+642	98	卧虎藏龍	wò hǔ cáng lóng	crouching tiger, hidden dragon	2	wuxia
+643	98	不知天高地厚	bù zhī tiān gāo dì hòu	dont know the immensity of heaven and earth	1	wuxia
+644	98	敬酒不吃吃罚酒	jìng jiǔ bù chī chī fá jiǔ	refuse a toast only to be forced to drink a forfeit	1	wuxia
+645	98	井底之蛙	jǐng dǐ zhī wā	a frog in the bottom of a well	3	wuxia
+646	98	打草惊蛇 	dǎ cǎo jīng shé	beating the grass and alerting the snake	3	wuxia
+647	103	你不知道吗？他是乾坤家族的公子	nǐ bù zhīdào ma? tā shì qiánkūn jiāzú de gōngzǐ	don't you know? he is the young master of the Qiankun clan	1	wuxia
+648	103	即使是族长也不能改变家规	jíshǐ shì zúzhǎng yě bùnéng gǎibiàn jiāguī	even if it’s the patriarch, they cannot change the clan rules	1	wuxia
+649	60	这个过程很复杂，因此我们需要更多的时间来完成	zhège guòchéng hěn fùzá, yīncǐ wǒmen xūyào gèng duō de shíjiān lái wánchéng	this process is complex, thus we need more time to complete it	4	hsk
+650	103	他来自宗族的一个分支，因此血脉比较弱	tā láizì zōngzú de yīgè fēnzhī, yīncǐ xuèmài bǐjiào ruò	he is from a branch of the clan, so his bloodline is relatively weak	2	wuxia
+651	103	这个技能是我们先祖的传承	zhège jìnéng shì wǒmen xiānzǔ de chuánchéng	this skill is an inheritance from our ancestor	3	wuxia
+652	99	赤红炎龙击	chìhóng yán lóng jī	crimson flame dragon strike	1	wuxia
+653	99	天蓝凤凰箭	tiānlán fènghuáng jiàn	azure phoenix arrow	2	wuxia
+654	99	彩虹色的雪莲	cǎihóng sè de xuělián	iridescent snow lotus	1	wuxia
+655	99	朱红灵掌	zhūhóng líng zhǎng	vermilion spirit palm	2	wuxia
+656	99	千年紫色参	qiānnián zǐsè cān	thousand year purple ginseng	3	wuxia
+657	99	翠强化丹	cuì qiánghuà dān	emerald strengthening pill	3	wuxia
+658	99	翠绿元神灵药	cuìlǜ yuán shénlíng yào	verdant primordial spirit elixir	3	wuxia
+659	5	我 想 去 商店 买 东西	wǒ xiǎng qù shāngdiàn mǎi dōngxī	I want to go to the store to buy things	1	hsk
+660	14	这 是 我 的 第一 本 汉语 书	zhè shì wǒ de dì yī běn hànyǔ shū	This is my first chinese book	4	hsk
+661	14	你 写 错了 我 的 名字	nǐ xiě cuòle wǒ de míngzì	you wrote my name incorrectly	3	hsk
+662	12	我 想 出去 旅游	wǒ xiǎng chūqù lǚyóu	I want to go traveling	3	hsk
